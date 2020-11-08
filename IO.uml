@@ -21,7 +21,7 @@
 <XPD:OBJ name="DiagramView" type="UMLUseCaseDiagramView" guid="irhmGP51P0mj5h17NBSmsQAA">
 <XPD:REF name="Model">xw5WiijKcEOCdPi28r9QSgAA</XPD:REF>
 <XPD:REF name="Diagram">xw5WiijKcEOCdPi28r9QSgAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">69</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">67</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLSystemBoundaryView" guid="20cFEX/E4E+VsihzNIFXGAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -398,7 +398,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="OKcDC2FPDkKBlBrZ0BKDqgAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,57079710177653</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">7</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">/XeUVaCFk0W47myYR0JD/AAA</XPD:REF>
 </XPD:OBJ>
@@ -715,7 +716,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="aukUspaLQU25jTa6QU8Y5wAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,865001965380149</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">26,1725046566048</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">BcYkpgT2NUSJjgKTfciWOQAA</XPD:REF>
 </XPD:OBJ>
@@ -1256,7 +1258,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Xbc3Upph3k6bJ4N0pXkPoQAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,978057915310613</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">29,2061637330205</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">iEWwWmC3N0i4ZsyHGDr2pgAA</XPD:REF>
 </XPD:OBJ>
@@ -1353,7 +1356,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ni4z+mjcXkKR+qW8b1Sp/QAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,84130947565494</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">22,1359436211787</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">sM4MdM/OPk2nIRF3xWFxXQAA</XPD:REF>
 </XPD:OBJ>
@@ -1492,7 +1496,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="TlVHnou/8kCcdZSy6q+t8QAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,77829240361903</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">19,4164878389476</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">iX1TicJ9bE2dCvc0dNuobgAA</XPD:REF>
 </XPD:OBJ>
@@ -2274,42 +2279,7 @@
 <XPD:REF name="Model">UfEtPF/xvkCTgztkhlyS7QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[52]" type="UMLUseCaseView" guid="YDUFJfhjFU6rsWgOn+myegAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
-<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">712</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">152</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">274</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">5Npul30F+UKwhaud4OeuCwAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="62DEsEc72EWVd/UORmK/zwAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="0iIsGO9xekOcisn5Qr3d+QAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Przegl&#261;danie terminarza</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="m047skS21UeRD7RXdqZwyQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="tWLrbqzHLESG95wkChL/IwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="6BLHhKs6tEO7XJ4zsZAWGgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">5Npul30F+UKwhaud4OeuCwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="TaSBHZU3qUSloOpyiqKodgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">5Npul30F+UKwhaud4OeuCwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="ExtensionPointCompartment" type="UMLExtensionPointCompartmentView" guid="lAFYkrwG4UOr7mkrR3aSFwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">5Npul30F+UKwhaud4OeuCwAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[53]" type="UMLUseCaseView" guid="7a16cSNS9UWVnOmxs9HQeQAA">
+<XPD:OBJ name="OwnedViews[52]" type="UMLUseCaseView" guid="7a16cSNS9UWVnOmxs9HQeQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2344,7 +2314,7 @@
 <XPD:REF name="Model">yHqN7J1DHkOFQGV4vxHKZAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[54]" type="UMLAssociationView" guid="FJ01lrFvJkuFWpxzBw/gWQAA">
+<XPD:OBJ name="OwnedViews[53]" type="UMLAssociationView" guid="FJ01lrFvJkuFWpxzBw/gWQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2421,7 +2391,7 @@
 <XPD:REF name="Model">pwnHqaQ+GkiAKUNX531v3wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[55]" type="UMLAssociationView" guid="Io0FlrSvSEiF+APceOtZrgAA">
+<XPD:OBJ name="OwnedViews[54]" type="UMLAssociationView" guid="Io0FlrSvSEiF+APceOtZrgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2498,7 +2468,7 @@
 <XPD:REF name="Model">JJMVYzRN1UuKJBg9XpAT0QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[56]" type="UMLAssociationView" guid="tmgqv0I0hkW/c9pYxJnUtQAA">
+<XPD:OBJ name="OwnedViews[55]" type="UMLAssociationView" guid="tmgqv0I0hkW/c9pYxJnUtQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2575,7 +2545,7 @@
 <XPD:REF name="Model">sGZcuWx3SUiEqLHB9JAuogAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[57]" type="UMLAssociationView" guid="HrxHHv3bXE2kGDP9Au7/4wAA">
+<XPD:OBJ name="OwnedViews[56]" type="UMLAssociationView" guid="HrxHHv3bXE2kGDP9Au7/4wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2652,7 +2622,7 @@
 <XPD:REF name="Model">x/7x14GzSUis3US0SJAvOgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[58]" type="UMLExtendView" guid="hNvIGNGSo0WjOIEuWZ5h8QAA">
+<XPD:OBJ name="OwnedViews[57]" type="UMLExtendView" guid="hNvIGNGSo0WjOIEuWZ5h8QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2669,7 +2639,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="zo15YPD3a0G/uWZlgkLfIwAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,60526616149757</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">12,7279220613579</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">ywJmUrgf3EeN9MGdF8DWbgAA</XPD:REF>
 </XPD:OBJ>
@@ -2679,7 +2650,7 @@
 <XPD:REF name="Model">ywJmUrgf3EeN9MGdF8DWbgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[59]" type="UMLAssociationView" guid="mjhdqfaBBUei9+s6FCk89wAA">
+<XPD:OBJ name="OwnedViews[58]" type="UMLAssociationView" guid="mjhdqfaBBUei9+s6FCk89wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2756,7 +2727,7 @@
 <XPD:REF name="Model">ig5pkW22s0eYDxq9/iT0rAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[60]" type="UMLAssociationView" guid="QSx0v/zo6kWguKUopoqwZQAA">
+<XPD:OBJ name="OwnedViews[59]" type="UMLAssociationView" guid="QSx0v/zo6kWguKUopoqwZQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2833,30 +2804,7 @@
 <XPD:REF name="Model">Xi0xSApdqkqT4g64D5w96wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[61]" type="UMLExtendView" guid="1Y4C7tw1JEq1EuVCnm7kYwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">641,240;779,196</XPD:ATTR>
-<XPD:REF name="Model">5JcD7OUVp0W2m03hjvs98AAA</XPD:REF>
-<XPD:REF name="Head">YDUFJfhjFU6rsWgOn+myegAA</XPD:REF>
-<XPD:REF name="Tail">z3ETOUeAkkq5sEk9l6/q8AAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="UPeMBacUt0+zNACl+oXA8gAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">5JcD7OUVp0W2m03hjvs98AAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="o5/6uEGYT0aCfQbI/xtuoQAA">
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
-<XPD:REF name="Model">5JcD7OUVp0W2m03hjvs98AAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="Su9QoFssskaykSwOdM0fJAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">5JcD7OUVp0W2m03hjvs98AAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[62]" type="UMLActorView" guid="mjAymRS1MEK/OlaVVXY+TgAA">
+<XPD:OBJ name="OwnedViews[60]" type="UMLActorView" guid="mjAymRS1MEK/OlaVVXY+TgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2887,7 +2835,7 @@
 <XPD:REF name="Model">kDZDRxoGpkGSxNnHdcSr8gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[63]" type="UMLUseCaseView" guid="z6XUkDyoc0eWQeV35DtfygAA">
+<XPD:OBJ name="OwnedViews[61]" type="UMLUseCaseView" guid="z6XUkDyoc0eWQeV35DtfygAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -2900,7 +2848,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="U4UcU3VDS0+/y8+HGNmVkwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Gr0kCHrmlkm0tKEINi9ixwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">logowanie sie</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Logowanie</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="y+g8qT9N3k+5Rhq3ZDMlKwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -2922,9 +2870,11 @@
 <XPD:REF name="Model">vhTUoMQYiUqJyYLZoOp9lwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[64]" type="UMLAssociationView" guid="6GWH8c7D+UWqnvmkEMoMeAAA">
+<XPD:OBJ name="OwnedViews[62]" type="UMLAssociationView" guid="6GWH8c7D+UWqnvmkEMoMeAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">1727,819;1944,829</XPD:ATTR>
 <XPD:REF name="Model">P5emYq1Em0CTbPvq1A2rWAAA</XPD:REF>
 <XPD:REF name="Head">mjAymRS1MEK/OlaVVXY+TgAA</XPD:REF>
@@ -2997,9 +2947,11 @@
 <XPD:REF name="Model">3zESlIw3e0uDjloV6HmhwgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[65]" type="UMLExtendView" guid="XKMJOx2C6EmK4dg8fM+REgAA">
+<XPD:OBJ name="OwnedViews[63]" type="UMLExtendView" guid="XKMJOx2C6EmK4dg8fM+REgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">447,800;408,592</XPD:ATTR>
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 <XPD:REF name="Head">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
@@ -3010,7 +2962,10 @@
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="5SPZ8oqdikm1bOCpFjhWKAAA">
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,24224750030418</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">47,5184174820669</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 </XPD:OBJ>
@@ -3020,9 +2975,11 @@
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[66]" type="UMLExtendView" guid="f97rFbGfmEyi6YgsNuvi8QAA">
+<XPD:OBJ name="OwnedViews[64]" type="UMLExtendView" guid="f97rFbGfmEyi6YgsNuvi8QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">591,688;439,592</XPD:ATTR>
 <XPD:REF name="Model">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
 <XPD:REF name="Head">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
@@ -3033,7 +2990,10 @@
 <XPD:REF name="Model">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="OqJQlZdmOEqaR3/ij4lMBgAA">
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">3,79556818077626</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">33,1360830515618</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
 </XPD:OBJ>
@@ -3043,9 +3003,11 @@
 <XPD:REF name="Model">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[67]" type="UMLAssociationView" guid="s5ECDf1TkUazleuNVeT77QAA">
+<XPD:OBJ name="OwnedViews[65]" type="UMLAssociationView" guid="s5ECDf1TkUazleuNVeT77QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">505,688;160,625</XPD:ATTR>
 <XPD:REF name="Model">JTaDeCen0EmW8mCFYjNosAAA</XPD:REF>
 <XPD:REF name="Head">XnP7iBZcZU+79vwiyzqdTAAA</XPD:REF>
@@ -3118,9 +3080,11 @@
 <XPD:REF name="Model">HMZu9Ryae0qG5Mht1sQKNAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[68]" type="UMLAssociationView" guid="v/7FgwTjv0+9HeUZZB7XCAAA">
+<XPD:OBJ name="OwnedViews[66]" type="UMLAssociationView" guid="v/7FgwTjv0+9HeUZZB7XCAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">659,101;584,240</XPD:ATTR>
 <XPD:REF name="Model">kGx0ks6wG0O6LTYvvRP3cQAA</XPD:REF>
 <XPD:REF name="Head">z3ETOUeAkkq5sEk9l6/q8AAA</XPD:REF>
@@ -3310,6 +3274,37 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[9]" type="UMLUseCase" guid="UTiwC5jV7kK0c0dCFwfXkwAA">
 <XPD:ATTR name="Name" type="string">Zarz&#261;dzanie planowaniem wizyt</XPD:ATTR>
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
+1a. Pacjent musi by&#263; zalogowany na konto osobiste w aplikacji webowej kliniki.
+1b. Pracownik rejestracji musi by&#263; zalogowany na konto pracownika w aplikacji desktopowej w klinice.
+
+Przebieg dla Pacjenta:
+1. Pacjent ma na pocz&#261;tku wyb&#243;r dw&#243;ch opcji - &quot;Przegl&#261;danie istniej&#261;cych wizyt&quot; lub &quot;Tworzenie nowej wizyty&quot;.
+2a. W przypadku wybrania &quot;Przegl&#261;dania istniej&#261;cych wizyt&quot;, zostaj&#261; mu wy&#347;wietlone ju&#380; istniej&#261;ce i zaplanowane wizyty, przypisane do jego konta. Dla ka&#380;dej wizyty dost&#281;pna jest informacja o terminie, numerze gabinetu i lekarzu prowadz&#261;cym wizyt&#281;. 
+3a. Pacjent mo&#380;e wybra&#263; pojedy&#324;cz&#261; wizyt&#281; i dokona&#263; jej odwo&#322;ania, lub poprosi&#263; o zmian&#281; terminu.
+4a. W przypadku zmiany terminu, pacjent przenoszony jest do przypadku 3b, gdzie rodzaj wizyty pozostaje taki sam jak rodzaj wizyty, kt&#243;rej termin jest zmieniany. W przypadku wybrania odwo&#322;ania, wizyta jest usuwana z bazy danych, a pacjent jest przenoszony do punku 2a.
+2b. W przypadku wyboru &quot;Tworzenia nowej wizyty&quot;, pacjent staje przed wyborem rodzaju wizyty, na jak&#261; chce si&#281; um&#243;wi&#263; (rodzaje wizyt definiowane s&#261; przez dzia&#322; bada&#324; medycznych; domy&#347;lnie istniej&#261;cy rodzaj wizyty to konsultacje).
+3b. Po wybraniu rodzaju wizyty, system prezentuje kalendarz z dost&#281;pnymi terminami wybranego rodzaju wizyty, z kt&#243;rego pacjent mo&#380;e wybra&#263; odpowiadaj&#261;c&#261; mu dat&#281; i godzin&#281;.
+4b. Po wprowadzeniu terminu przez u&#380;ytkownika, system tworzy now&#261; wizyt&#281; o podanym terminie i rodzaju, i wprowadza j&#261; do bazy danych wizyt.
+5b. Po zako&#324;czeniu procesu tworzenia wizyty, pacjent jest przenoszony do punktu 2a, gdzie mo&#380;e zobaczy&#263; swoje wizyty, wraz ze stworzon&#261; przed chwil&#261;. 
+
+Przebieg dla Pracownika Rejestracji:
+1. Pracownik Rejestracji ma na pocz&#261;tku wyb&#243;r dw&#243;ch opcji - &quot;Zarzadzanie terminarzem wizyt&quot; lub &quot;Obs&#322;uga konta pacjenta&quot;.
+2a. W przypadku wybrania &quot;Zarzadzania terminarzem wizyt&quot;, pracownik recepcji jest przenoszony na stron&#281;, na kt&#243;rej mo&#380;e przegl&#261;da&#263; terminarz wizyt, zawieraj&#261;cy informacje o rodzaju ka&#380;dej wizyty, lekarzu i gabinecie w kt&#243;rym wizyta si&#281; odb&#281;dzie. Dane pacjent&#243;w, oraz dok&#322;adniejsze informacje o celu wizyty, s&#261; zanonimizowane.
+3a. Pracownik mo&#380;e wybra&#263; jedn&#261; wizyt&#281; w celu zmiany jej terminu lub rodzaju, lub jedn&#261; lub kilka wizyt w celu ich odw&#322;oania. W przypadku zmiany terminu lub celu, zostaje prze&#322;&#261;czony na tryb obs&#322;ugi konta u&#380;ytkownika, kt&#243;rego wizyt&#281; chce zmieni&#263;. Nast&#281;pni zostaje przeniesiony do punktu 2b z Przebiegu Pacjenta.
+4a. Pracownik mo&#380;e tak&#380;e u&#380;y&#263; specjalnej opcji wyszukiwania lekarzy kliniki po ich danych (imi&#281; i nazwisko lub kod profilu w systemie), aby zg&#322;osi&#263; jego nieobecno&#347;&#263; we wprowadzonym przedziale czasowym, co b&#281;dzie skutkowa&#322;o odwo&#322;aniem wszystkich wizyt z podanego przedzia&#322;u czasowego, kt&#243;re prowadzi&#263; mia&#322; wybrany lekarz. Przed odwo&#322;aniem wizyt, pracownik mo&#380;e tak&#380;e poda&#263; pow&#243;d ich odwo&#322;ania. System usunie te wizyty z bazy danych, a tak&#380;e poinformuje pacjent&#243;w o odwo&#322;aniu ich wizyt przez SMS, dodaj&#261;c informacje o powodzie odwo&#322;ania wizyty.
+2b. W przypadku wybrania &quot;Obs&#322;ugi konta pacjenta&quot;, pracownik proszony jest o podanie danych pacjenta, kt&#243;rego konto chce obs&#322;ugiwa&#263; (dane te to np. numer PESEL). W przypadku nowego pacjenta, pracownik mo&#380;e utworzy&#263; nowe konto, korzystaj&#261;c z podanych przez niego danych osobowych. Ten tryb pracy jest utworzony z my&#347;l&#261; o przeprowadzaniu rejestracji elektronicznych, w kt&#243;rych to Pracownik Rejestracji obs&#322;uguje system, jednocze&#347;nie otrzymuj&#261;c od pacjenta konieczne dane. 
+3b. Pracownik, po uzyskaniu dost&#281;pu do konta pacjenta, pracownik rejestracji mo&#380;e obs&#322;ugiwa&#263; jego konto zgodnie z &quot;Przebiegiem pacjenta&quot;.
+4b. Po zako&#324;czeniu zarz&#261;dania kontem pacjenta, pracownik zostaje przeniesiony do punktu 1.
+
+Przebieg alternatywny:
+1. Ze wszystkich punkt&#243;w obu przebieg&#243;w mo&#380;na wycofa&#263; si&#281; do punktu 1. tego przebiegu. Ewentualne zmiany wprowadzone w systemie, zostaj&#261; automatycznie wycofane.
+
+Warunki zako&#324;czenia:
+W przypadku Pacjenta
+1. Wylogowanie si&#281; z konta przez pacjenta.
+W przypadku Pracownika rejestracji
+1. Wylogowanie si&#281; z konta przez pracownika rejestracji.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">z3ETOUeAkkq5sEk9l6/q8AAA</XPD:REF>
@@ -3379,6 +3374,19 @@
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[14]" type="UMLUseCase" guid="a9+xYlTLPEGPbyjk0K86yAAA">
 <XPD:ATTR name="Name" type="string">Wykorzystanie e-skierowa&#324; lub skierowa&#324; tradycyjnych</XPD:ATTR>
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
+1. U&#380;ytkownik (pacjent lub pracownik rejestracji) musi by&#263; zalogowany na konto w aplikacji kliniki.
+2. U&#380;ytkownik musi by&#263; w trakcie procesu tworzenia nowej wizyty, przed wybieraniem jej terminu.
+
+Przebieg:
+1a. U&#380;ytownik ma mo&#380;liwo&#347;&#263; wykorzystania e-skierowania, przez wprowadzanie jego kodu do systemu. System nast&#281;pnie dokonuje weryfikacji kodu eskierowania z baz&#261; danych kliniki. Je&#347;li kod jest w&#322;a&#347;ciwy, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
+1b. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; wykorzystania skierowania tradycyjnego, przez przes&#322;anie jego zdj&#281;cia/skanu.
+2b. System nast&#281;pnie prosi u&#380;ytkownika o wskazanie po&#322;o&#380;enia kolejnych informacji na przes&#322;anym zdj&#281;ciu (s&#261; to np. data, lekarz wystawiaj&#261;cy skierowanie, dane pacjenta, informacje o zabiegu na jaki wystawiono skierowanie, unikalny kod QR itp.).
+3b. Tak otagowane zdj&#281;cie jest weryfikowane przez algorytm rozpoznawania zdj&#281;&#263; i je&#380;eli wszystkie informacje s&#261; odczytywalne i zgodne ze stanem bezy danych kliniki, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
+Uwagi: W razie niepowodzenia sie&#380;ki a lub b, u&#380;ytkownik mo&#380;e spr&#243;bowa&#263; wykona&#263; je ponownie.
+
+Warunki ko&#324;cowe:
+1. U&#380;tykownik przechodzi do kolejnego kroku tworzenia wizyty, wykorzystuj&#261;c skierowania b&#261;d&#378; te&#380; nie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">E4an6NA53kGLyZkiWk+k3QAA</XPD:REF>
@@ -3788,7 +3796,7 @@ wys&#322;anie danych ko&#324;czy sie po otrzymaniu kodu 200 od serweru ZUS</XPD:
 <XPD:OBJ name="OwnedElements[35]" type="UMLUseCase" guid="hZ2f9swwQU6lP8tMJ3ZDDAAA">
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie bazy lek&#243;w i procedur</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik musi by&#263; zalogowany w seriwsie i posiada&#263; odpowiednei uprawnienia.
+1. U&#380;ytkownik musi by&#263; zalogowany w sewisie ii posiada&#263; odpowiednie uprawnienia.
 2a. Mo&#380;e wybra&#263; opcj&#281; przegl&#261;dania bazy danych lek&#243;w i procedur.
 2b. Mo&#380;e te&#380; zacz&#261;&#263; wpisywa&#263; lek w polu do tego przeznaczonym.
 
@@ -3909,6 +3917,21 @@ Warunki ko&#324;cowe:
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[40]" type="UMLUseCase" guid="vmZIx5l9yk2e2kjwBgoTLAAA">
 <XPD:ATTR name="Name" type="string">Korzystanie z bazy chor&#243;b</XPD:ATTR>
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
+1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i posiada&#263; odpowiednie uprawnienia (lekarz lub pracownik dzia&#322;u bada&#324; klinicznych).
+2. Otwarcie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b.
+
+Przebieg:
+1. U&#380;ytkownik mo&#380;e wyszukiwa&#263; choroby korzystaj&#261;c z kilku dost&#281;pnych filtr&#243;w. Mo&#380;e je wyszukiwa&#263; po po nazwie, po fragmencie opisu lub po fragmencie opisu objaw&#243;w.
+2. Po wprowadzeniu wszystkich filtr&#243;w mo&#380;e wybra&#263; opcj&#281; &quot;Wyszukaj&quot;, po kt&#243;rej system przeszuka baz&#281; chor&#243;b i wy&#347;wietli wszystkie najbli&#380;sze wyniki.
+3. Z wyszukanych wynik&#243;w, u&#380;ytkownik mo&#380;e wybra&#263; konkretn&#261; chorob&#281; i tym samym przej&#347;&#263; do jej strony, zawieraj&#261;cej dok&#322;adny opis redagowany przez dzia&#322; bada&#324; medycznych.
+
+Przebieg alternatywny:
+1. Z punktu 2 mo&#380;na cofn&#261;&#263; si&#281; do punktu 1.
+2. Z punktu 3 mo&#380;na cofn&#261;&#263; si&#281; do punktu 1 lub 2.
+
+Warunki zako&#324;czenia:
+1. Zamkni&#281;cie przez u&#380;ytkownika modu&#322;u przegl&#261;daia bazy chor&#243;b.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">6QEel4QXlUS3KZxC9YjMLQAA</XPD:REF>
@@ -3937,6 +3960,22 @@ Warunki ko&#324;cowe:
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[42]" type="UMLUseCase" guid="cxSDpkzPlk+KhZ1z31btkwAA">
 <XPD:ATTR name="Name" type="string">Aktualizacja bazy chor&#243;b</XPD:ATTR>
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
+1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i posiada&#263; odpowiednie uprawnienia (pracownik dzia&#322;u bada&#324; klinicznych).
+2. Otwarcie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b i wybranie opcji edycji bazy.
+
+Przebieg:
+1a. U&#380;ytkownik mo&#380;e wybra&#263; opcj&#281; dodawania nowej choroby. System przeniesie u&#380;ytkownika na stron&#281;, na kt&#243;rej opis i szczeg&#243;&#322;y dotycz&#261;ce tej choroby mog&#261; by&#263; redagowane.
+2a. Po zako&#324;czeniu redagowania opisu choroby, mo&#380;e by&#263; ona zapisana w bazie przez u&#380;ytkownika.
+1b. U&#380;ytkownik mo&#380;e podczas przegl&#261;dania istniej&#261;cej listy chor&#243;b, wybra&#263; opcj&#281; edycji opisu choroby. Zostanie on przeniesiony do strony, na kt&#243;rej mo&#380;e zmieni&#263; opis i szczeg&#243;&#322;y dotyczn&#261;ce tego rekurdu w bazie danych.
+2b. Po zako&#324;czeniu edycji opisu, zostaje on wpisany do bazy danych na miejsce poprzedniego.
+
+Przebieg alternatywny:
+1. Z punktu 2a mo&#380;na cofn&#261;&#263; si&#281; do punktu 1a, b&#261;d&#378; przej&#347;&#263; do przegl&#261;dania bazy chor&#243;b, czyli do 1b.
+2. Z punktu 2b mo&#380;na cofn&#261;&#263; si&#281; do punktu 1b.
+
+Warunki ko&#324;cowe:
+1. Zamkni&#281;cie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">mSFJrKBeiEuN+YVhouRnSwAA</XPD:REF>
@@ -4037,7 +4076,6 @@ Przebieg:
 
 1. Pracownik wybiera interesuj&#261;ce go kryteria statystyczne
 2. Wys&#322;anie zapytania do bazy
-3. Obliczenie statystyk
 3. Zwr&#243;cenie wynik&#243;w
 4. Wy&#347;wietlenie pracownikowi danych anonimowych statystycznych
 
@@ -4231,13 +4269,13 @@ Je&#347;li wiadomo&#347;&#263; o zam&#243;wieniu zosta&#322;&#261; dostarczona t
 <XPD:ATTR name="Name" type="string">Wgl&#261;d do danych o ubezpieczeniach</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
 
-1. System uwierzytelniony w bazie danych.
-2. Pracownik rejestracji/NFZ jest zalogowany i posiada uprawnienia.
+1. System kliniki uwierzytelniony do &#322;&#261;czenia si&#281; z baz&#261; EWU&#346;.
+2. Pracownik rejestracji jest zalogowany na konto osobiste w systemie kliniki.
 
 Przebieg:
 1. Pracownik wyszukuje pacjenta w bazie danych po numerze PESEL.
-2. Wywo&#322;anie zapytania do bazy danych EWU&#346;
-3. Zwr&#243;cenie rekordu z bazy danych
+2. Wywo&#322;anie zapytania do bazy danych EWU&#346;.
+3. Zwr&#243;cenie rekordu z bazy danych.
 4. Wy&#347;wietlenie informacji o figurowaniu lub niefigurowaniu w pacjenta w bazie ubezpieczonych z mnemonikiem
 
 Warunki ko&#324;cowe:
@@ -4363,20 +4401,21 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedElements[64]" type="UMLUseCase" guid="/slKldLoQ0uytrYhPMiJQwAA">
 <XPD:ATTR name="Name" type="string">Wezwanie personelu sprz&#261;taj&#261;cego</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik jest zalogowany i posiada uprawnienia pracownika
-2. Wybranie opcji wezwij personel sprz&#261;taj&#261;cy z menu
+1. U&#380;ytkownik jest zalogowany i posiada uprawnienia pracownika kliniki.
+2. Wybranie opcji &quot;Wezwij personel sprz&#261;taj&#261;cy.&quot;
 
 Przebieg
-1. Wybranie pomieszczenia
-2. Wybranie powodu wezwania
-3. Wybranie pilno&#347;ci wezwania
-4. Zatwierdzenie wezwania
+1. Wybranie pomieszczenia, do kt&#243;rego personel ma by&#263; wezwany.
+2. Wybranie powodu wezwania.
+3. Wybranie priorytetu wezwania.
+4. Zatwierdzenie wezwania, skutuj&#261;ce wys&#322;aniem przez system komunikatu do personelu sprz&#261;taj&#261;cego.
 
 Przebieg alternatywny:
-1.  Mo&#380;liwo&#347;c anulowania wezwania personelu sprz&#261;taj&#261;cego przyciskami od 1 do 3
+1.  Mo&#380;liwo&#347;c przerwania procesu wzywania personelu sprz&#261;taj&#261;cego w punktach od 1 do 3.
+2. Mo&#380;liwo&#347;&#263; cofni&#281;cia wezwania po punkcie 4. 
 
 Warunek zako&#324;czenia
-1. poprawne wys&#322;anie wezwania
+1. Zatwierdzenie wezwania.
 </XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -4413,7 +4452,7 @@ Przebieg:
 
 Przebieg alternatywny:
 1. opcje 2,3 s&#261; opcjonalne
-2a. Lekarz ma mo&#380;liwo&#347;&#263; stworzenia wizyty. W tym wpyadku musi poda&#263; dane pacjenta i odnale&#347;&#263;go w vazie danych przychodni, je&#347;li pacjenta w niej nie ma, pacjent musi przej&#347;&#263; droge przez rejestracje.
+2a. Lekarz ma mo&#380;liwo&#347;&#263; stworzenia wizyty. W tym wpyadku musi poda&#263; dane pacjenta i odnale&#347;&#263; go w bazie danych przychodni. Je&#347;li pacjenta w niej nie ma, pacjent musi przej&#347;&#263; proces planowania wizyty przez rejestracje.
 3.Lekraz mo&#380;e zamkn&#261;&#263; panel pomijaj&#261;&#263; zmiany</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -4447,11 +4486,6 @@ U&#380;ytkownik mo&#380;e w dowolnym momencie po kroku 1. wr&#243;ci&#263; do kr
 Warunki ko&#324;cowe
 1. Terminarz zostaje zamkni&#281;ty z wybranym terminem lub bez.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">YDUFJfhjFU6rsWgOn+myegAA</XPD:REF>
-<XPD:REF name="Views[1]">6BLHhKs6tEO7XJ4zsZAWGgAA</XPD:REF>
-<XPD:REF name="Views[2]">TaSBHZU3qUSloOpyiqKodgAA</XPD:REF>
-<XPD:REF name="Views[3]">lAFYkrwG4UOr7mkrR3aSFwAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">sSYvLUzG7Eif7htY8jh3pgAA</XPD:REF>
 <XPD:REF name="Associations[1]">4sFHTpoJ/0St1cWfLBsRbAAA</XPD:REF>
@@ -4681,11 +4715,6 @@ Warunki zako&#324;czenia:
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:REF name="Base">5Npul30F+UKwhaud4OeuCwAA</XPD:REF>
 <XPD:REF name="Extension">UTiwC5jV7kK0c0dCFwfXkwAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">1Y4C7tw1JEq1EuVCnm7kYwAA</XPD:REF>
-<XPD:REF name="Views[1]">UPeMBacUt0+zNACl+oXA8gAA</XPD:REF>
-<XPD:REF name="Views[2]">o5/6uEGYT0aCfQbI/xtuoQAA</XPD:REF>
-<XPD:REF name="Views[3]">Su9QoFssskaykSwOdM0fJAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[79]" type="UMLActor" guid="kDZDRxoGpkGSxNnHdcSr8gAA">
 <XPD:ATTR name="Name" type="string">Ka&#380;dy u&#380;ytkownik systemu</XPD:ATTR>
@@ -4698,19 +4727,18 @@ Warunki zako&#324;czenia:
 <XPD:REF name="Associations[0]">ckUXaBeZD0eO3ItFEgIAsQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[80]" type="UMLUseCase" guid="vhTUoMQYiUqJyYLZoOp9lwAA">
-<XPD:ATTR name="Name" type="string">logowanie sie</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Logowanie</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Naci&#347;ni&#281;cie przycisku logowania si&#281; w wybranej aplikacji(webowa, mobilna)
+1. Naci&#347;ni&#281;cie przycisku logowania si&#281; w wybranej aplikacji (webowa, mobilna)
 
 Przebieg:
-1.Podanie nazwy u&#380;ytkownika
-2. Podanie has&#322;a
-3. Naci&#347;ni&#281;cie przycisku zaloguj sie powoduje pr&#243;be autoryzaacji w systemie
-4. W przypadku powodzenia u&#380;ytkownik jest zalogowany
+1. Podanie nazwy u&#380;ytkownika oraz has&#322;a.
+2. Naci&#347;ni&#281;cie przycisku zaloguj si&#281;, po kt&#243;rym system dokona weryfikacji danych u&#380;ytkownika przy uzyciu bazy u&#380;ytkownik&#243;w systemu.
+3. W przypadku powodzenia u&#380;ytkownik, zostaje zalogowany.
 
 Przebieg alternatywny:
-1. U&#380;ytkownik mo&#380;e w punktach 1-2 cofn&#261;&#263; si&#281; do g&#322;ownej strony i przerwa&#263; proces logowania sie
-4a. W przypadku niepowodzenai wy&#347;wietlany jest odpowiedni komunikat i program wraca do punktu 1
+1. U&#380;ytkownik mo&#380;e w punktach 1-2 przerwa&#263; proces logowania.
+3a. W przypadku niepowodzenia, wy&#347;wietlany jest odpowiedni komunikat i program wraca do punktu 1.
 
 Warunek zako&#324;czenia:
 1. U&#380;ytkownik zosta&#322; zautoryzowany i jest uwierzytelniony w systemie</XPD:ATTR>
