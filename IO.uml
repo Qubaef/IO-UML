@@ -21,7 +21,7 @@
 <XPD:OBJ name="DiagramView" type="UMLUseCaseDiagramView" guid="irhmGP51P0mj5h17NBSmsQAA">
 <XPD:REF name="Model">xw5WiijKcEOCdPi28r9QSgAA</XPD:REF>
 <XPD:REF name="Diagram">xw5WiijKcEOCdPi28r9QSgAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">67</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">69</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLSystemBoundaryView" guid="20cFEX/E4E+VsihzNIFXGAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
@@ -1309,8 +1309,8 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">672</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">780</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">680</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">788</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">274</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">cxSDpkzPlk+KhZ1z31btkwAA</XPD:REF>
@@ -1344,7 +1344,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">672,810;594,814</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">680,814;594,817</XPD:ATTR>
 <XPD:REF name="Model">sM4MdM/OPk2nIRF3xWFxXQAA</XPD:REF>
 <XPD:REF name="Head">6QEel4QXlUS3KZxC9YjMLQAA</XPD:REF>
 <XPD:REF name="Tail">mSFJrKBeiEuN+YVhouRnSwAA</XPD:REF>
@@ -1925,7 +1925,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">300</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">296</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">888</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">295</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -1960,7 +1960,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">190,848;356,888</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">190,848;353,888</XPD:ATTR>
 <XPD:REF name="Model">GXKwPf/kuEK4rzGThlXljwAA</XPD:REF>
 <XPD:REF name="Head">sgsqOV4sUEGZd5RKGAW8dgAA</XPD:REF>
 <XPD:REF name="Tail">Bgv8WEIjw0S0tGGaQp32jAAA</XPD:REF>
@@ -2964,8 +2964,8 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="5SPZ8oqdikm1bOCpFjhWKAAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,24224750030418</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">47,5184174820669</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,10535183101915</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">53,160135440008</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 </XPD:OBJ>
@@ -3157,9 +3157,69 @@
 <XPD:REF name="Model">Mq71nDfcQkWwwo+MWz1NzAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
+<XPD:OBJ name="OwnedViews[67]" type="UMLExtendView" guid="YzvNTtKXME6I+9RkFTAMuQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">982,404;481,548</XPD:ATTR>
+<XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
+<XPD:REF name="Head">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
+<XPD:REF name="Tail">SW0s5lm/7k6785wJ012t+gAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="PdAyDK7V7USXCDJz2A16+wAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Ce4cUT0lLkq3iuNRN67X5gAA">
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="BlR+0pNkc0mkLAqd83OH4QAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">87</XPD:ATTR>
+<XPD:OBJ name="OwnedViews[68]" type="UMLIncludeView" guid="4HOOEiol3EG/tz4jnETmSwAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">422,548;475,484</XPD:ATTR>
+<XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
+<XPD:REF name="Head">VfOtQjvwCk23qZaM+iSFnQAA</XPD:REF>
+<XPD:REF name="Tail">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="OK1CG3NowUac9WSpQWDR0AAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Kb9FzzX7EUigPyNfFuc3LAAA">
+<XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
+<XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,798634296961676</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">28,0713376952364</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;include&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="SVAGAbFMQkuZxGefUWuY0QAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">89</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLActor" guid="0cfK4EKWXkK7rKh5yj/mowAA">
 <XPD:ATTR name="Name" type="string">Pacjent</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
@@ -3280,22 +3340,22 @@
 
 Przebieg dla Pacjenta:
 1. Pacjent ma na pocz&#261;tku wyb&#243;r dw&#243;ch opcji - &quot;Przegl&#261;danie istniej&#261;cych wizyt&quot; lub &quot;Tworzenie nowej wizyty&quot;.
-2a. W przypadku wybrania &quot;Przegl&#261;dania istniej&#261;cych wizyt&quot;, zostaj&#261; mu wy&#347;wietlone ju&#380; istniej&#261;ce i zaplanowane wizyty, przypisane do jego konta. Dla ka&#380;dej wizyty dost&#281;pna jest informacja o terminie, numerze gabinetu i lekarzu prowadz&#261;cym wizyt&#281;. 
-3a. Pacjent mo&#380;e wybra&#263; pojedy&#324;cz&#261; wizyt&#281; i dokona&#263; jej odwo&#322;ania, lub poprosi&#263; o zmian&#281; terminu.
-4a. W przypadku zmiany terminu, pacjent przenoszony jest do przypadku 3b, gdzie rodzaj wizyty pozostaje taki sam jak rodzaj wizyty, kt&#243;rej termin jest zmieniany. W przypadku wybrania odwo&#322;ania, wizyta jest usuwana z bazy danych, a pacjent jest przenoszony do punku 2a.
-2b. W przypadku wyboru &quot;Tworzenia nowej wizyty&quot;, pacjent staje przed wyborem rodzaju wizyty, na jak&#261; chce si&#281; um&#243;wi&#263; (rodzaje wizyt definiowane s&#261; przez dzia&#322; bada&#324; medycznych; domy&#347;lnie istniej&#261;cy rodzaj wizyty to konsultacje).
+2a. W przypadku wybrania &quot;Przegl&#261;dania istniej&#261;cych wizyt&quot; zostaj&#261; mu wy&#347;wietlone ju&#380; istniej&#261;ce i zaplanowane wizyty, przypisane do jego konta. Dla ka&#380;dej wizyty dost&#281;pna jest informacja o terminie, numerze gabinetu i lekarzu prowadz&#261;cym wizyt&#281;.
+3a. Pacjent mo&#380;e wybra&#263; pojedyncz&#261; wizyt&#281; i dokona&#263; jej odwo&#322;ania lub poprosi&#263; o zmian&#281; terminu.
+4a. W przypadku zmiany terminu pacjent przenoszony jest do przypadku 3b, gdzie rodzaj wizyty pozostaje taki sam jak rodzaj wizyty, kt&#243;rej termin jest zmieniany. W przypadku wybrania odwo&#322;ania, wizyta jest usuwana z bazy danych, a pacjent jest przenoszony do punktu 2a.
+2b. W przypadku wyboru &quot;Tworzenia nowej wizyty&quot; pacjent staje przed wyborem rodzaju wizyty, na jak&#261; chce si&#281; um&#243;wi&#263; (rodzaje wizyt definiowane s&#261; przez dzia&#322; bada&#324; medycznych; domy&#347;lnie istniej&#261;cy rodzaj wizyty to konsultacje).
 3b. Po wybraniu rodzaju wizyty, system prezentuje kalendarz z dost&#281;pnymi terminami wybranego rodzaju wizyty, z kt&#243;rego pacjent mo&#380;e wybra&#263; odpowiadaj&#261;c&#261; mu dat&#281; i godzin&#281;.
-4b. Po wprowadzeniu terminu przez u&#380;ytkownika, system tworzy now&#261; wizyt&#281; o podanym terminie i rodzaju, i wprowadza j&#261; do bazy danych wizyt.
-5b. Po zako&#324;czeniu procesu tworzenia wizyty, pacjent jest przenoszony do punktu 2a, gdzie mo&#380;e zobaczy&#263; swoje wizyty, wraz ze stworzon&#261; przed chwil&#261;. 
+4b. Po wprowadzeniu terminu przez u&#380;ytkownika system tworzy now&#261; wizyt&#281; o podanym terminie i rodzaju, i wprowadza j&#261; do bazy danych wizyt.
+5b. Po zako&#324;czeniu procesu tworzenia wizyty, pacjent jest przenoszony do punktu 2a, gdzie mo&#380;e zobaczy&#263; swoje wizyty, wraz ze stworzon&#261; przed chwil&#261;.
 
 Przebieg dla Pracownika Rejestracji:
-1. Pracownik Rejestracji ma na pocz&#261;tku wyb&#243;r dw&#243;ch opcji - &quot;Zarzadzanie terminarzem wizyt&quot; lub &quot;Obs&#322;uga konta pacjenta&quot;.
-2a. W przypadku wybrania &quot;Zarzadzania terminarzem wizyt&quot;, pracownik recepcji jest przenoszony na stron&#281;, na kt&#243;rej mo&#380;e przegl&#261;da&#263; terminarz wizyt, zawieraj&#261;cy informacje o rodzaju ka&#380;dej wizyty, lekarzu i gabinecie w kt&#243;rym wizyta si&#281; odb&#281;dzie. Dane pacjent&#243;w, oraz dok&#322;adniejsze informacje o celu wizyty, s&#261; zanonimizowane.
-3a. Pracownik mo&#380;e wybra&#263; jedn&#261; wizyt&#281; w celu zmiany jej terminu lub rodzaju, lub jedn&#261; lub kilka wizyt w celu ich odw&#322;oania. W przypadku zmiany terminu lub celu, zostaje prze&#322;&#261;czony na tryb obs&#322;ugi konta u&#380;ytkownika, kt&#243;rego wizyt&#281; chce zmieni&#263;. Nast&#281;pni zostaje przeniesiony do punktu 2b z Przebiegu Pacjenta.
+1. Pracownik Rejestracji ma na pocz&#261;tku wyb&#243;r dw&#243;ch opcji - &quot;Zarz&#261;dzanie terminarzem wizyt&quot; lub &quot;Obs&#322;uga konta pacjenta&quot;.
+2a. W przypadku wybrania &quot;Zarz&#261;dzania terminarzem wizyt&quot; pracownik recepcji jest przenoszony na stron&#281;, na kt&#243;rej mo&#380;e przegl&#261;da&#263; terminarz wizyt, zawieraj&#261;cy informacje o rodzaju ka&#380;dej wizyty, lekarzu i gabinecie, w kt&#243;rym wizyta si&#281; odb&#281;dzie. Dane pacjent&#243;w oraz dok&#322;adniejsze informacje o celu wizyty, s&#261; zanonimizowane.
+3a. Pracownik mo&#380;e wybra&#263; jedn&#261; wizyt&#281; w celu zmiany jej terminu lub rodzaju, lub jedn&#261;, lub kilka wizyt w celu ich odwo&#322;ania. W przypadku zmiany terminu lub celu zostaje prze&#322;&#261;czony na tryb obs&#322;ugi konta u&#380;ytkownika, kt&#243;rego wizyt&#281; chce zmieni&#263;. Nast&#281;pni zostaje przeniesiony do punktu 2b z Przebiegu Pacjenta.
 4a. Pracownik mo&#380;e tak&#380;e u&#380;y&#263; specjalnej opcji wyszukiwania lekarzy kliniki po ich danych (imi&#281; i nazwisko lub kod profilu w systemie), aby zg&#322;osi&#263; jego nieobecno&#347;&#263; we wprowadzonym przedziale czasowym, co b&#281;dzie skutkowa&#322;o odwo&#322;aniem wszystkich wizyt z podanego przedzia&#322;u czasowego, kt&#243;re prowadzi&#263; mia&#322; wybrany lekarz. Przed odwo&#322;aniem wizyt, pracownik mo&#380;e tak&#380;e poda&#263; pow&#243;d ich odwo&#322;ania. System usunie te wizyty z bazy danych, a tak&#380;e poinformuje pacjent&#243;w o odwo&#322;aniu ich wizyt przez SMS, dodaj&#261;c informacje o powodzie odwo&#322;ania wizyty.
-2b. W przypadku wybrania &quot;Obs&#322;ugi konta pacjenta&quot;, pracownik proszony jest o podanie danych pacjenta, kt&#243;rego konto chce obs&#322;ugiwa&#263; (dane te to np. numer PESEL). W przypadku nowego pacjenta, pracownik mo&#380;e utworzy&#263; nowe konto, korzystaj&#261;c z podanych przez niego danych osobowych. Ten tryb pracy jest utworzony z my&#347;l&#261; o przeprowadzaniu rejestracji elektronicznych, w kt&#243;rych to Pracownik Rejestracji obs&#322;uguje system, jednocze&#347;nie otrzymuj&#261;c od pacjenta konieczne dane. 
+2b. W przypadku wybrania &quot;Obs&#322;ugi konta pacjenta&quot; pracownik proszony jest o podanie danych pacjenta, kt&#243;rego konto chce obs&#322;ugiwa&#263; (dane te to np. numer PESEL). W przypadku nowego pacjenta pracownik mo&#380;e utworzy&#263; nowe konto, korzystaj&#261;c z podanych przez niego danych osobowych. Ten tryb pracy jest utworzony z my&#347;l&#261; o przeprowadzaniu rejestracji elektronicznych, w kt&#243;rych to Pracownik Rejestracji obs&#322;uguje system, jednocze&#347;nie otrzymuj&#261;c od pacjenta konieczne dane.
 3b. Pracownik, po uzyskaniu dost&#281;pu do konta pacjenta, pracownik rejestracji mo&#380;e obs&#322;ugiwa&#263; jego konto zgodnie z &quot;Przebiegiem pacjenta&quot;.
-4b. Po zako&#324;czeniu zarz&#261;dania kontem pacjenta, pracownik zostaje przeniesiony do punktu 1.
+4b. Po zako&#324;czeniu zarz&#261;dzania kontem pacjenta pracownik zostaje przeniesiony do punktu 1.
 
 Przebieg alternatywny:
 1. Ze wszystkich punkt&#243;w obu przebieg&#243;w mo&#380;na wycofa&#263; si&#281; do punktu 1. tego przebiegu. Ewentualne zmiany wprowadzone w systemie, zostaj&#261; automatycznie wycofane.
@@ -3379,14 +3439,14 @@ W przypadku Pracownika rejestracji
 2. U&#380;ytkownik musi by&#263; w trakcie procesu tworzenia nowej wizyty, przed wybieraniem jej terminu.
 
 Przebieg:
-1a. U&#380;ytownik ma mo&#380;liwo&#347;&#263; wykorzystania e-skierowania, przez wprowadzanie jego kodu do systemu. System nast&#281;pnie dokonuje weryfikacji kodu eskierowania z baz&#261; danych kliniki. Je&#347;li kod jest w&#322;a&#347;ciwy, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
+1a. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; wykorzystania e-skierowania, przez wprowadzanie jego kodu do systemu. System nast&#281;pnie dokonuje weryfikacji kodu e-skierowania z baz&#261; danych kliniki. Je&#347;li kod jest w&#322;a&#347;ciwy, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
 1b. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; wykorzystania skierowania tradycyjnego, przez przes&#322;anie jego zdj&#281;cia/skanu.
-2b. System nast&#281;pnie prosi u&#380;ytkownika o wskazanie po&#322;o&#380;enia kolejnych informacji na przes&#322;anym zdj&#281;ciu (s&#261; to np. data, lekarz wystawiaj&#261;cy skierowanie, dane pacjenta, informacje o zabiegu na jaki wystawiono skierowanie, unikalny kod QR itp.).
-3b. Tak otagowane zdj&#281;cie jest weryfikowane przez algorytm rozpoznawania zdj&#281;&#263; i je&#380;eli wszystkie informacje s&#261; odczytywalne i zgodne ze stanem bezy danych kliniki, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
-Uwagi: W razie niepowodzenia sie&#380;ki a lub b, u&#380;ytkownik mo&#380;e spr&#243;bowa&#263; wykona&#263; je ponownie.
+2b. System nast&#281;pnie prosi u&#380;ytkownika o wskazanie po&#322;o&#380;enia kolejnych informacji na przes&#322;anym zdj&#281;ciu (s&#261; to np. data, lekarz wystawiaj&#261;cy skierowanie, dane pacjenta, informacje o zabiegu, na jaki wystawiono skierowanie, unikalny kod QR itp.).
+3b. Tak otagowane zdj&#281;cie jest weryfikowane przez algorytm rozpoznawania zdj&#281;&#263; i je&#380;eli wszystkie informacje s&#261; mo&#380;liwe do odczytu i zgodne ze stanem bezy danych kliniki, do tworzonej wizyty przypisane jest w bazie skierowanie, oraz jej szczeg&#243;&#322;y.
+Uwagi: W razie niepowodzenia &#347;cie&#380;ki a lub b, u&#380;ytkownik mo&#380;e spr&#243;bowa&#263; wykona&#263; je ponownie.
 
 Warunki ko&#324;cowe:
-1. U&#380;tykownik przechodzi do kolejnego kroku tworzenia wizyty, wykorzystuj&#261;c skierowania b&#261;d&#378; te&#380; nie.</XPD:ATTR>
+1. U&#380;ytkownik przechodzi do kolejnego kroku tworzenia wizyty, wykorzystuj&#261;c skierowania b&#261;d&#378; te&#380; nie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">E4an6NA53kGLyZkiWk+k3QAA</XPD:REF>
@@ -3419,19 +3479,19 @@ Warunki ko&#324;cowe:
 <XPD:OBJ name="OwnedElements[17]" type="UMLUseCase" guid="o3EGwPdzxUu0XEZHLPXCqQAA">
 <XPD:ATTR name="Name" type="string">Wysy&#322;anie powiadomie&#324; o wizytach</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Godzina 11 ka&#380;dego dnia
+1. Uruchomienie przez zegarj wysy&#322;ania powiadomie&#324; o okre&#347;lonej godzinie.
 
 Przebieg:
-1. Pobranie listy wizyt na dzie&#324; nast&#281;pny
-2. Wygenerowanie indywidualnego linku do odwo&#322;ania rezerwacji dla ka&#380;dego klienta dnia nast&#281;pnego
-3. Wys&#322;anie wiadomo&#347;ci pod numer wskazany w wizycie
+1. Pobranie listy wizyt na dzie&#324; nast&#281;pny.
+2. Wygenerowanie indywidualnego linku do odwo&#322;ania rezerwacji dla ka&#380;dego klienta dnia nast&#281;pnego.
+3. Wys&#322;anie wiadomo&#347;ci pod numer wskazany w wizycie.
 
 Przebieg alternatywny:
-1. Je&#347;li nie uda&#322;o sie wys&#322;a&#263; wiadomo&#347;ci, powt&#243;rz t&#261; operacje 2 krotnie.
-2. Je&#347;li nadal wys&#322;anei ko&#324;czy sie b&#322;&#281;dem, zako&#324;cz dzia&#322;anie
+1. Je&#347;li nie uda&#322;o si&#281; wys&#322;a&#263; wiadomo&#347;ci, pon&#243;w pr&#243;b&#281; wys&#322;ania.
+2. Je&#347;li nadal wys&#322;anie ko&#324;czy si&#281; b&#322;&#281;dem, zako&#324;cz wysy&#322;adnie dla danej wizyty i zanotuj b&#322;&#261;d w logach systemu.
 
 Warunki zako&#324;czenie:
-1. Podj&#281;cie pr&#243;by wys&#322;ania wiadomo&#347;ci dla ka&#380;dego klienta dnia nast&#281;pnego</XPD:ATTR>
+1. Podj&#281;cie pr&#243;by wys&#322;ania wiadomo&#347;ci dla ka&#380;dego klienta dnia nast&#281;pnego.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">cSaz1HNUG0WOPgHMEJqF6AAA</XPD:REF>
@@ -3470,20 +3530,20 @@ Warunki zako&#324;czenie:
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[19]" type="UMLUseCase" guid="ry08j6N1+EC3DN6XmvQzCwAA">
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie dokumentacji medycznej</XPD:ATTR>
-<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
-1.a Je&#347;li u&#380;ytkownikiem jest pacjent, musi by&#263; zalogowany na swoje konto i wybra&#263; przegl&#261;danie dokumentacji
-1.b Je&#347;li u&#380;ytkownikiem jest lekarz, musi by&#263; zalogowany na swoje konto, posiada&#263; wizyte danego pacjenta w danym dniu oraz wybra&#263; przejrzenie dokumentacji z kalendarza
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
+1a Je&#347;li u&#380;ytkownikiem jest pacjent, musi by&#263; zalogowany na swoje konto i wybra&#263; przegl&#261;danie dokumentacji.
+1b Je&#347;li u&#380;ytkownikiem jest lekarz, musi by&#263; zalogowany na swoje konto, posiada&#263; wizyte danego pacjenta w danym dniu oraz wybra&#263; przejrzenie dokumentacji z kalendarza.
 
 Przebieg:
-1. Dokumentacja jest posortowana wzgl&#281;dem daty dodania. U&#380;ytkownik wybiera z kt&#243;rego dnia chce przejrze&#263; dane.
+1. Dokumentacja jest posortowana wzgl&#281;dem daty dodania. U&#380;ytkownik wybiera, z kt&#243;rego dnia chce przejrze&#263; dane.
 2. Po wybraniu dniu wy&#347;wietlany s&#261; pliki zwi&#261;zane z wizytami takie jak opisy, zdj&#281;cia, zalecenia, przypisane leki.
-3. Po wybraniu na odpowiedni plik, jest on wy&#347;wietlany. Istnieje mo&#380;liwo&#347;&#263; otwarcia kilku plik&#243;w na raz(naprzyk&#322;ad opis zdj&#281;cia i zdj&#281;cie)
-4. Niekt&#243;re pliki w momencie pr&#243;by dost&#281;pu pobieraj&#261; aktualizacje. Naprzyk&#322;ad plik z receptami pobiera informacje o ich realizacji. Po pobraniu aktualizacji plik ponownie sie zpaisuje w zaktualizowanej formie.
-5. Mo&#380;na zamkn&#261;&#263; plik poprzez naci&#347;ni&#281;cie zamknij plik.
-6. Je&#347;li u&#380;ytkownik jest lekarzem mo&#380;e wej&#347;&#263; w edycje pliku.
+3. Po wybraniu na odpowiedni plik jest on wy&#347;wietlany. Istnieje mo&#380;liwo&#347;&#263; otwarcia kilku plik&#243;w naraz(na przyk&#322;ad opis zdj&#281;cia i zdj&#281;cie)
+4. Niekt&#243;re pliki w momencie pr&#243;by dost&#281;pu pobieraj&#261; aktualizacje. Na przyk&#322;ad plik z receptami pobiera informacje o ich realizacji. Po pobraniu aktualizacji plik ponownie si&#281; zapisuje w zaktualizowanej formie.
+5. Mo&#380;na zamkn&#261;&#263; plik, poprzez naci&#347;ni&#281;cie zamknij plik.
+6. Je&#347;li u&#380;ytkownik jest lekarzem, mo&#380;e wej&#347;&#263; w edycje pliku.
 
-Przebieg alterantywny:
-1.W ka&#380;dej chwili istnieje mo&#380;liwo&#347;&#263; powrotu do punkt&#243;w 1 oraz 2.
+Przebieg alternatywny:
+1. W ka&#380;dej chwili istnieje mo&#380;liwo&#347;&#263; powrotu do punkt&#243;w 1 oraz 2.
 
 Warunki zako&#324;czenia:
 1. Opuszczenie przegl&#261;dania dokumentacji poprzez zamkni&#281;cie panelu przegl&#261;du dokumentacji.</XPD:ATTR>
@@ -3506,20 +3566,20 @@ Warunki zako&#324;czenia:
 <XPD:OBJ name="OwnedElements[20]" type="UMLUseCase" guid="eBWEUM9FDku7UrbEAgmXXwAA">
 <XPD:ATTR name="Name" type="string">Zarz&#261;dzanie dokumentacj&#261; medyczn&#261;</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik jest lekarzem i wybierze opcje edycji dokumentacji
+1. U&#380;ytkownik jest lekarzem i wybra&#322; opcj&#281; edycji dokumentacji.
 
 Przebieg:
-1. Lekarz ma mo&#380;liwos&#263; edycji plik&#243;w tekstowych
-2a. Lekarz ma ma&#380;liwo&#347;&#263; utworzenia nowego pliku.
-2b. lekarz ma mo&#380;liwo&#347;&#263; dodania pliku z dysku.
+1. Lekarz ma mo&#380;liwo&#347;&#263; edycji plik&#243;w tekstowych
+2a. Lekarz ma mo&#380;liwo&#347;&#263; utworzenia nowego pliku.
+2b. Lekarz ma mo&#380;liwo&#347;&#263; dodania pliku z dysku.
 3. Lekarz ma mo&#380;liwo&#347;&#263; kopiowania danych ze starszych wizyt do nowych.
 
 Przebieg alternatywny:
-1. Punkty 1-3 mog&#261; by&#263; wykonwywane w dowolnej kolejno&#347;ci
-2. U&#380;ytkownik mo&#380;e cofn&#261;&#263; wszsytkie wprowadzone zmiany, mziany w obr&#281;bie pliku lub w obr&#281;bie dnia
+1. Punkty 1-3 mog&#261; by&#263; wykonywane w dowolnej kolejno&#347;ci
+2. U&#380;ytkownik mo&#380;e cofn&#261;&#263; wszystkie wprowadzone zmiany, zmiany w obr&#281;bie pliku lub w obr&#281;bie dnia.
 
 Warunki ko&#324;cowe:
-1. Wyj&#347;cie z trybu edycji dokuemntu przez u&#380;ytkownika.</XPD:ATTR>
+1. Wyj&#347;cie z trybu edycji dokumentu przez u&#380;ytkownika.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">SW0s5lm/7k6785wJ012t+gAA</XPD:REF>
@@ -3528,8 +3588,9 @@ Warunki ko&#324;cowe:
 <XPD:REF name="Views[3]">SP6xCgtsTUqGaWeilaA6PQAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">gyNZT5Hr9k6R94fwqt/0bwAA</XPD:REF>
-<XPD:ATTR name="#Extends" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#Extends" type="integer">2</XPD:ATTR>
 <XPD:REF name="Extends[0]">BcYkpgT2NUSJjgKTfciWOQAA</XPD:REF>
+<XPD:REF name="Extends[1]">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[21]" type="UMLAssociation" guid="3V5YmbWQs0urR53KmvzeYwAA">
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
@@ -3629,25 +3690,23 @@ Warunki ko&#324;cowe:
 <XPD:OBJ name="OwnedElements[28]" type="UMLUseCase" guid="3mce4bcrrEGsOFf6TKV71QAA">
 <XPD:ATTR name="Name" type="string">Podsumowanie wizyty</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Lekarz zalogowany na swoje konto
-2. Lekarz wybra&#322; pacjenta
-3. Lekarz wszed&#322; w tryb podsumowania wizyty
+1. Lekarz jest zalogowany na swoje konto.
+2. Lekarz wszed&#322; w tryb podsumowania konkretnej i wybranej w &quot;module przegl&#261;dania wizyt i pacjent&#243;w&quot; wizyty.
 
 Przebieg:
-1. Lekarz wype&#322;nia odpowiednie dokumenty, pisze podsumowanie wizyty
-2. Lekarz wypisuje recepte
-3. Lekraz wypisuje zwolnienie
-4. Lekarz wypisuje zalecenia dla pacjenta
-5. Lekarz wypisuje skierowanie
+1. Lekarz wype&#322;nia raport podsumowuj&#261;cy wizyt&#281;.
+2. Lekarz mo&#380;e przydzieli&#263; recept&#281; przez dodanie lek&#243;w, rozmiar&#243;w opakowa&#324; i ich dawkowania, wykorzystuj&#261;c modu&#322; bazy lek&#243;w i procedur. Mo&#380;e tak&#380;e wybra&#263; stopie&#324; refundacji ka&#380;dego wprowadzonego leku. System po&#322;&#261;czy wprowadzone dane w recept&#281;.
+3. Lekarz mo&#380;e wypisa&#263; zwolnienie, wprowadzaj&#261;c jego przedzia&#322;y czasowe.
+4. Lekarz mo&#380;e dopisa&#263; dokumentacje medyczn&#261; (opisane w oddzielnym przypadku u&#380;ycia).
+5. Lekarz mo&#380;e wypisa&#263; e-skierowanie, kt&#243;rego zostaje dodane do bazy danych przychodni. Jego identyfikacja przebiega przez wykorzystanie unikalnego kodu.
+6. Na koniec lekarz potwierdza zako&#324;czenie wizyty, co skutkuje zapisaniem wprowadzonych danych do bazy systemu oraz zmien&#261; statusu wizyty na odbyt&#261;. Dodatkowo wysy&#322;ane jest powiadomienie do personelu sprz&#261;taj&#261;cego, po konkretnych rodzajach wizyt (definiowane przez dzia&#322; bada&#324; medycznych).
 
 Przebieg alternatywny:
-opcje 2-5 moga zosta&#263; pomini&#281;te
-W ka&#380;dym moemncie lekarz mo&#380;e zrezygnowa&#263; z wpisywania danych i wycofa&#263; si&#281;
+1. Opcje 2-5 mog&#261; zosta&#263; pomini&#281;te. 
+2. W ka&#380;dym momencie lekarz mo&#380;e zrezygnowa&#263; z wpisywania danych i wycofa&#263; si&#281; do dowolnego z wcze&#347;niejszych punkt&#243;w, ale nie wcze&#347;niej ni&#380; punkt 1.
 
 Warunki ko&#324;cowe
-1. Lekarz zapisuje zmiane
-2. Uruchamia si&#281; wysy&#322;anie powiadomienia do personelu sprz&#261;taj&#261;cego
-3. Dane s&#261; zapisywane do odpowiedniej bazy danych.</XPD:ATTR>
+1. Lekarz zapisuje zmiany.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
@@ -3656,11 +3715,14 @@ Warunki ko&#324;cowe
 <XPD:REF name="Views[3]">CmBpDNld/EOST0+zzbKP8gAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">4osbkjLxXUmwGQv/QzV90wAA</XPD:REF>
-<XPD:ATTR name="#Extenders" type="integer">4</XPD:ATTR>
+<XPD:ATTR name="#Extenders" type="integer">5</XPD:ATTR>
 <XPD:REF name="Extenders[0]">iX1TicJ9bE2dCvc0dNuobgAA</XPD:REF>
 <XPD:REF name="Extenders[1]">t39+HsXlvE+5Tn1/5H7YOgAA</XPD:REF>
 <XPD:REF name="Extenders[2]">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 <XPD:REF name="Extenders[3]">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
+<XPD:REF name="Extenders[4]">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
+<XPD:ATTR name="#Includes" type="integer">1</XPD:ATTR>
+<XPD:REF name="Includes[0]">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[29]" type="UMLUseCase" guid="nAdlBGL3R0yENtzqXwImbwAA">
 <XPD:ATTR name="Name" type="string">Wypisanie recepty</XPD:ATTR>
@@ -3700,13 +3762,13 @@ Warunki ko&#324;cowe
 
 Przebieg:
 1. Import danych z bazy danych oraz przygotowanie ich do formatu wymaganego przez NFZ
-2. Wys&#322;anie danych na stosown&#261; platforme.
+2. Wys&#322;anie danych na stosown&#261; platform&#281;.
 
 Przebieg alternatywny:
-1. Otrzymanie kodu b&#322;&#281;du, ponowne wysy&#322;anie danych co 15 minut 
+1. Otrzymanie kodu b&#322;&#281;du, pr&#243;ba ponownego wysy&#322;ania danych co okre&#347;lony interwa&#322; czasowy a&#380; do sukcesu.
 
 Warunki zako&#324;czenia:
-wys&#322;anie danych ko&#324;czy sie po otrzymaniu kodu 200 od serweru NFZ</XPD:ATTR>
+1. Wys&#322;anie danych ko&#324;czy si&#281; po otrzymaniu kodu 200 od serwera NFZ.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">u/kThjOBBES8bdUggSjC5AAA</XPD:REF>
@@ -3719,17 +3781,17 @@ wys&#322;anie danych ko&#324;czy sie po otrzymaniu kodu 200 od serweru NFZ</XPD:
 <XPD:OBJ name="OwnedElements[32]" type="UMLUseCase" guid="ABAyAj+5ik+1obf00JO/ygAA">
 <XPD:ATTR name="Name" type="string">Wysy&#322;anie informacji o zwolnieniach</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Pojawienie si&#281; nowej informacji w kategorii oznaczonych jako dane wysy&#322;ane do ZUS
+1. Pojawienie si&#281; nowej informacji w kategorii oznaczonych jako dane wysy&#322;ane do ZUS.
 
 Przebieg:
-1. Import danych do zwolnienia oraz przygotowanie wywo&#322;&#261;nia ro REST API Zusu
-2. Wys&#322;anie danych na stosown&#261; platforme.
+1. Import danych do zwolnienia oraz przygotowanie wywo&#322;ania do REST API ZUS-u.
+2. Wys&#322;anie danych na stosown&#261; platform&#281;.
 
 Przebieg alternatywny:
-1. Otrzymanie kodu b&#322;&#281;du, ponowne wysy&#322;anie danych co 15 minut
+1. Otrzymanie kodu b&#322;&#281;du, pr&#243;ba ponownego wysy&#322;ania danych co  okre&#347;lony interwa&#322; czasowy a&#380; do sukcesu.
 
 Warunki zako&#324;czenia:
-wys&#322;anie danych ko&#324;czy sie po otrzymaniu kodu 200 od serweru ZUS</XPD:ATTR>
+1. Wys&#322;anie danych ko&#324;czy si&#281; po otrzymaniu informacji zwrotnej z potwierdzeniem od serwera ZUS-u.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AqpKIrukNUW37FOMoA/TngAA</XPD:REF>
@@ -3796,28 +3858,22 @@ wys&#322;anie danych ko&#324;czy sie po otrzymaniu kodu 200 od serweru ZUS</XPD:
 <XPD:OBJ name="OwnedElements[35]" type="UMLUseCase" guid="hZ2f9swwQU6lP8tMJ3ZDDAAA">
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie bazy lek&#243;w i procedur</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik musi by&#263; zalogowany w sewisie ii posiada&#263; odpowiednie uprawnienia.
-2a. Mo&#380;e wybra&#263; opcj&#281; przegl&#261;dania bazy danych lek&#243;w i procedur.
-2b. Mo&#380;e te&#380; zacz&#261;&#263; wpisywa&#263; lek w polu do tego przeznaczonym.
+1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i mie&#263; odpowiednie uprawnienia.
+2a. U&#380;ytkownik korzysta z przegl&#261;dania ca&#322;ej bazy.
+2b. U&#379;tykownik korzysta z wyszukiwania z bazy.
 
 Przebieg:
-W przypadku 2a:
-1. Wybranie czy jest to lek czy procedura.
-2. Wyszukanie go po tytule lub nazwie.
-3. po wybraniu z listy otrzymanych wynik&#243;w wy&#347;wietla si&#281; rekord z bazy danych
-4. Po uzyskaniu informacji pracownik zamyka wynik i mo&#380;e wr&#243;ci&#263; do punktu 1
-5. Po zako&#324;czeniu pracownik zamyka baze danych.
+1a. Wybranie pomi&#281;dzy zak&#322;adkami leki lub procedury.
+2a. Wy&#347;wietlenie wszystkich rekord&#243;w lek&#243;w/procedur.
+3a. Mo&#380;liwo&#347;&#263; wybrania konkretnego rekordu, w celu wy&#347;wietlenia dok&#322;adnego opisu leku/procedury.
+1b. Opcjonalne rozpocz&#281;cie wpisywania fragmentu nazwy rekordu, aby wyszuka&#263; go z bazy.
+2b. Je&#347;li rozpocz&#281;to wpisywanie, wyszukiwarka dynamicznie wy&#347;wietla pasuj&#261;ce rekordy.
+3b. Wybranie leku/procedury z listy wszystkich lub pasuj&#261;cych pozycji.
 
-W przypadku 2b
-1. W czasie wpisywania leku system wyszukuje w bazie najbardziej zbli&#380;onego.
-2. System wy&#347;wietla lekarzowi 3 najbardziej pasuj&#261;ce leki
-3. lekarz mo&#380;e wybra&#263; lek z tej listy
 
 Warunki zako&#324;czenia:
-w przypadku 2a
-1.  zamkni&#281;cie okna przegl&#261;dania wizyty
-w przypadku 2b
-1.zako&#324;czenie edycji lek&#243;w na recepte</XPD:ATTR>
+1a. Zamkni&#281;cie modu&#322;u przegl&#261;dania bazy lek&#243;w i procedur.
+1b. Zako&#324;czenie procesu wyszukiwania z bazy danych lek&#243;w i procedur.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">IkVLwsP/gEKipoINGg9pZQAA</XPD:REF>
@@ -3876,26 +3932,24 @@ w przypadku 2b
 <XPD:OBJ name="OwnedElements[38]" type="UMLUseCase" guid="FxDA4IP9PU+oTxsto9rhsAAA">
 <XPD:ATTR name="Name" type="string">Modyfikowanie bazy lek&#243;w i procedur</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik jest zalogowany i nale&#380;y do pracownik&#243;w dzia&#322;u bada&#324; klinicznych
-2. u&#380;ytkownik jest w trybie przegl&#261;dania bazy lek&#243;w i procedur
+1. U&#380;ytkownik jest zalogowany i nale&#380;y do pracownik&#243;w dzia&#322;u bada&#324; klinicznych.
+2. U&#380;ytkownik jest w trybie przegl&#261;dania i modyfikacji bazy lek&#243;w i procedur.
 
 Przebieg:
-1. U&#380;ytkownik mo&#380;e nacisn&#261;&#263; guzik aktualizacja, kt&#243;ry pobierze najnowsze dane z odpowiedniego serwisu
-2. U&#380;ytkownik naciska guzyk nowy.
-3. u&#380;ytkownik wybiera typ rekordu
-4. U&#380;ytkownik podaje nazwe rekordu
-5. U&#380;ytkownik wpisuje odpowiednie dane do systemu(numebry, opisy, przebiegi itp)
-6. U&#380;ytkownik zatwierdza dodanie rekordu do bazy danych
-7. U&#380;ytkownik mo&#380;e po wyszukaniu edytowa&#263; odpwiedni rekord po naci&#347;ni&#281;ciu przycisku edytu
-8. U&#380;ytkownik aktualizuje rekord analogicznie do pkt 5-6
+1a. U&#380;ytkownik mo&#380;e wybra&#263; opcj&#281; aktualizacji bazy lek&#243;w, kt&#243;ra pobierze najnowsze dane z wybranego serwisu.
+1b. U&#380;ytkownik mo&#380;e wybra&#263; opcj&#281; tworzenia nowego rekordu. Po wprowadzeniu jego typu, nazwy i opisu, u&#380;ytkownik mo&#380;e zapisa&#263; rekord w bazie danych. Niekt&#243;re z rekord&#243;w procedur mog&#261; mie&#263; rzeczywisty wp&#322;yw na prac&#281; systemu (np. typy wizyt).
+1c. U&#380;ytkownik mo&#380;e, wykorzystuj&#261;c modu&#322; wyszukiwania, wybra&#263; edycj&#281; dowolnego rekordu. Modyfikowane mog&#261; by&#263; wszystkie pola rekordu, a zapisuany rekord trafi do bazy danych.
+1d. U&#380;ytkownik mo&#380;e tak&#380;e usun&#261;&#263; znaleziony i wybrany rekord. System dokona sprawdzenia i zweryfikuje czy taki rekord nie jest nigdzie w systemie u&#380;ywany.
+2d. U&#380;ytkownik na podstawie rezulat&#243;w systemowej analizy danych z poprzedniego punktu, zostanie poproszony o podj&#281;cie decyzji czy rekord na pewno powinien by&#263; usuni&#281;ty. Zostanie r&#243;wnie&#380; ostrze&#380;ony o ryzyku utraty niekt&#243;rych danych, je&#347;li takowe wyst&#281;puje.
+3d. W przypadku braku ch&#281;ci usuwania danego rekordu, u&#380;ytkownik mo&#380;e wybra&#263; opcj&#281; jego &quot;wy&#322;&#261;czenia&quot;, co pozwoli zapobiec utracie danych i jednocze&#347;nie uniemo&#380;lwi wykorzystanie go w przysz&#322;o&#347;ci przez inne komponenty systemu.
 
 Przebieg alternatywny:
-1. U&#380;ytkownik mo&#380;e zacz&#261;&#263; w punkcie 1,2,7.
-2. U&#380;ytkownik w ka&#380;dym momencie mo&#380;e cofn&#261;&#263; wprowadzone zmiany, &#261;z do momentu ich zatwierdzenia
-3. U&#380;ytkownik ma opcje powrotu do pocz&#261;tku i porzucenia wprowadzonych zmian za pomoc&#261; przycisku
+1. U&#380;ytkownik mo&#380;e zacz&#261;&#263; w punktach 11, 1b, 1c i 1d.
+2. U&#380;ytkownik w ka&#380;dym momencie mo&#380;e cofn&#261;&#263; wprowadzone zmiany, o ile nie zosta&#322;y one zatwierdzone.
+3. U&#380;ytkownik ma w ka&#380;dej chwili mo&#380;lwwo&#347;&#263; przej&#347;cia do jednego z punkt&#243;w pocz&#261;tkowych przebiegu.
 
 Warunki ko&#324;cowe:
-1. U&#380;ytkownik ko&#324;czy edycje poprzez wyj&#347;cie z trybu przegl&#261;dania baz lek&#243;w i procedur</XPD:ATTR>
+1. U&#380;ytkownik ko&#324;czy edycje poprzez wyj&#347;cie z trybu przegl&#261;dania baz lek&#243;w i procedur.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">NAHBU490fU2RO5H8zU5/BAAA</XPD:REF>
@@ -3918,11 +3972,11 @@ Warunki ko&#324;cowe:
 <XPD:OBJ name="OwnedElements[40]" type="UMLUseCase" guid="vmZIx5l9yk2e2kjwBgoTLAAA">
 <XPD:ATTR name="Name" type="string">Korzystanie z bazy chor&#243;b</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i posiada&#263; odpowiednie uprawnienia (lekarz lub pracownik dzia&#322;u bada&#324; klinicznych).
+1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i mie&#263; odpowiednie uprawnienia (lekarz lub pracownik dzia&#322;u bada&#324; klinicznych).
 2. Otwarcie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b.
 
 Przebieg:
-1. U&#380;ytkownik mo&#380;e wyszukiwa&#263; choroby korzystaj&#261;c z kilku dost&#281;pnych filtr&#243;w. Mo&#380;e je wyszukiwa&#263; po po nazwie, po fragmencie opisu lub po fragmencie opisu objaw&#243;w.
+1. U&#380;ytkownik mo&#380;e wyszukiwa&#263; choroby, korzystaj&#261;c z kilku dost&#281;pnych filtr&#243;w. Mo&#380;e je wyszukiwa&#263; po nazwie, po fragmencie opisu lub po fragmencie opisu objaw&#243;w.
 2. Po wprowadzeniu wszystkich filtr&#243;w mo&#380;e wybra&#263; opcj&#281; &quot;Wyszukaj&quot;, po kt&#243;rej system przeszuka baz&#281; chor&#243;b i wy&#347;wietli wszystkie najbli&#380;sze wyniki.
 3. Z wyszukanych wynik&#243;w, u&#380;ytkownik mo&#380;e wybra&#263; konkretn&#261; chorob&#281; i tym samym przej&#347;&#263; do jej strony, zawieraj&#261;cej dok&#322;adny opis redagowany przez dzia&#322; bada&#324; medycznych.
 
@@ -3931,7 +3985,7 @@ Przebieg alternatywny:
 2. Z punktu 3 mo&#380;na cofn&#261;&#263; si&#281; do punktu 1 lub 2.
 
 Warunki zako&#324;czenia:
-1. Zamkni&#281;cie przez u&#380;ytkownika modu&#322;u przegl&#261;daia bazy chor&#243;b.</XPD:ATTR>
+1. Zamkni&#281;cie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">6QEel4QXlUS3KZxC9YjMLQAA</XPD:REF>
@@ -3961,17 +4015,17 @@ Warunki zako&#324;czenia:
 <XPD:OBJ name="OwnedElements[42]" type="UMLUseCase" guid="cxSDpkzPlk+KhZ1z31btkwAA">
 <XPD:ATTR name="Name" type="string">Aktualizacja bazy chor&#243;b</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i posiada&#263; odpowiednie uprawnienia (pracownik dzia&#322;u bada&#324; klinicznych).
+1. U&#380;ytkownik musi by&#263; zalogowany w serwisie i mie&#263; odpowiednie uprawnienia (pracownik dzia&#322;u bada&#324; klinicznych).
 2. Otwarcie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b i wybranie opcji edycji bazy.
 
 Przebieg:
 1a. U&#380;ytkownik mo&#380;e wybra&#263; opcj&#281; dodawania nowej choroby. System przeniesie u&#380;ytkownika na stron&#281;, na kt&#243;rej opis i szczeg&#243;&#322;y dotycz&#261;ce tej choroby mog&#261; by&#263; redagowane.
-2a. Po zako&#324;czeniu redagowania opisu choroby, mo&#380;e by&#263; ona zapisana w bazie przez u&#380;ytkownika.
-1b. U&#380;ytkownik mo&#380;e podczas przegl&#261;dania istniej&#261;cej listy chor&#243;b, wybra&#263; opcj&#281; edycji opisu choroby. Zostanie on przeniesiony do strony, na kt&#243;rej mo&#380;e zmieni&#263; opis i szczeg&#243;&#322;y dotyczn&#261;ce tego rekurdu w bazie danych.
-2b. Po zako&#324;czeniu edycji opisu, zostaje on wpisany do bazy danych na miejsce poprzedniego.
+2a. Po zako&#324;czeniu redagowania opisu choroby mo&#380;e by&#263; ona zapisana w bazie przez u&#380;ytkownika.
+1b. U&#380;ytkownik mo&#380;e podczas przegl&#261;dania istniej&#261;cej listy chor&#243;b, wybra&#263; opcj&#281; edycji opisu choroby. Zostanie on przeniesiony do strony, na kt&#243;rej mo&#380;e zmieni&#263; opis i szczeg&#243;&#322;y dotycz&#261;ce tego rekordu w bazie danych.
+2b. Po zako&#324;czeniu edycji opisu zostaje on wpisany do bazy danych na miejsce poprzedniego.
 
 Przebieg alternatywny:
-1. Z punktu 2a mo&#380;na cofn&#261;&#263; si&#281; do punktu 1a, b&#261;d&#378; przej&#347;&#263; do przegl&#261;dania bazy chor&#243;b, czyli do 1b.
+1. Z punktu 2a mo&#380;na cofn&#261;&#263; si&#281; do punktu 1a b&#261;d&#378; przej&#347;&#263; do przegl&#261;dania bazy chor&#243;b, czyli do 1b.
 2. Z punktu 2b mo&#380;na cofn&#261;&#263; si&#281; do punktu 1b.
 
 Warunki ko&#324;cowe:
@@ -4025,17 +4079,17 @@ Warunki ko&#324;cowe:
 <XPD:OBJ name="OwnedElements[45]" type="UMLUseCase" guid="mQgq71+EgUiBNLsLhLuZHwAA">
 <XPD:ATTR name="Name" type="string">Wysy&#322;anie powiadomienia do personelu sprz&#261;taj&#261;cego</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Zako&#324;czenie podsumowania wizyty przez lekarza
-2. Typ wizyty posiada atrybut &quot;Wymaga sprz&#261;tania&quot;
+1. Zako&#324;czenie podsumowania wizyty przez lekarza.
+2. Typ wizyty posiada atrybut &quot;Wymaga sprz&#261;tania&quot;.
 
 Przebieg:
-1.Znalezienie osoby z personelu sprz&#261;taj&#261;cego z najmniejsz&#261; liczb&#261; zada&#324;.
+1. Znalezienie osoby z personelu sprz&#261;taj&#261;cego z najmniejsz&#261; liczb&#261; zada&#324;.
 2. Wys&#322;anie powiadomienia z wezwaniem
 
 Przebieg alternatywny:
-1. Je&#347;li wyst&#261;pi&#322;b&#322;&#261;d, pon&#243;w korki 1 i 2
+1. Je&#347;li wyst&#261;pi&#322; b&#322;&#261;d, pon&#243;w kroki 1 i 2.
 Warunki ko&#324;cowe:
-1.Je&#347;li uda&#322;o sie dostarczy&#263; powiadomienie to zako&#324;cz</XPD:ATTR>
+1. Je&#347;li uda&#322;o si&#281; dostarczy&#263; powiadomienie to zako&#324;cz.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AoWUgoKEe06H1088U0QvFwAA</XPD:REF>
@@ -4068,20 +4122,17 @@ Warunki ko&#324;cowe:
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[48]" type="UMLUseCase" guid="meVzG1JIB0yClt28DqfE7wAA">
 <XPD:ATTR name="Name" type="string">Dost&#281;p do danych o pacjentach</XPD:ATTR>
-<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
-
-1. Pracownik zarz&#261;du/dzia&#322;u marketingu jest zalogowany w systemie
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
+1. Pracownik zarz&#261;du/dzia&#322;u marketingu jest zalogowany w systemie.
+2. Pracownik wybra&#322; opcje przegl&#261;dania danych o pacjentach.
 
 Przebieg:
-
-1. Pracownik wybiera interesuj&#261;ce go kryteria statystyczne
-2. Wys&#322;anie zapytania do bazy
-3. Zwr&#243;cenie wynik&#243;w
-4. Wy&#347;wietlenie pracownikowi danych anonimowych statystycznych
+1. Pracownik wybiera interesuj&#261;ce go kryteria statystyczne (np. rozk&#322;ad wieku pacjent&#243;w, cz&#281;stotliwo&#347;&#263; wykonywanych zabieg&#243;w w zale&#380;no&#347;ci od wieku, cz&#281;stotliwo&#347;&#263; wizyt w zale&#380;no&#347;ci od miejsca zamieszkania etc.). System dokonuje koniecznych oblicze&#324; i anonimizacji danych osobistych.
+2. Dane s&#261; wy&#347;wietlane dla u&#380;ytkownika, kt&#243;ry mo&#380;e je wyeksportowa&#263; do pliku zewn&#281;trznego (np. .csv).
 
 
 Warunki ko&#324;cowe
-1. Pracownik wy&#347;wietla statystyki</XPD:ATTR>
+1. Pracownik zamyka opcj&#281; przegl&#261;dania danych o pacjenatch.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Q0iOTRQkMUGY+WVrEibltgAA</XPD:REF>
@@ -4214,21 +4265,20 @@ Warunki ko&#324;cowe
 <XPD:OBJ name="OwnedElements[54]" type="UMLUseCase" guid="+bL/XNFDJkuXsXjInxjjXQAA">
 <XPD:ATTR name="Name" type="string">Zarz&#261;dzenie inwentaryzacj&#261;</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
-1. Bycie zalogowanym, posiadanie odpowiednich uprawnie&#324; oraz wybranie zarz&#261;dzania inwentaryzacj&#261;.
+1. U&#380;ytkownik musi by&#263; zalogowany i posiada&#263; odpowiednie uprawnienia.
+2. U&#380;ytkownik musi otworzy&#263; modu&#322; zarz&#261;dzania inwentaryzacj&#261;.
 
 Przebieg:
-1. U&#380;ytkownik widzi panel z ilo&#347;cia dost&#281;pnych zasob&#243;w, ich &#347;rednim zu&#380;yciem oraz czasem, na ile materia&#322;&#243;w zosta&#322;o
-2. U&#380;ytkonwik po naci&#347;ni&#281;ciu danego zasobu wchodzi w interfejs zarz&#261;dzania danym materia&#322;em. U&#380;ytkownik widzi &#347;rednie zu&#380;ycie, zu&#380;ycia ostatnich dni.
-3. u&#380;ytkownik ma mo&#380;liwo&#347;&#263; dodania danego materia&#322;u do listy zakup&#243;w. Ma mo&#380;liwo&#347;&#263; dodania sztuk na n dni na podstawie &#347;redniego zu&#380;ycia albo dan&#261; liczbe sztuk
-4. Po zako&#324;czeniu przegl&#261;du realizacji zam&#243;wienia s&#261; wysy&#322;ane do osoby odpowiedzialnej za ich realizacje lub firmy odpowiadaj&#261;cej za ni&#261;.
+1a. U&#380;ytkownik ma dost&#281;p do panelu zawieraj&#261;cego infromacje o ilo&#347;ci dost&#281;pnych zasob&#243;w, o ich &#347;rednim zu&#380;yciu (na podstawie historii edycji rekordu) i o &#347;rednim czasie jaki pozosta&#322; do ich wyczerpania.
+2a. U&#380;ytkownik po wybraniu danego zasobu, zostaje przeniesiony do panelu zarz&#261;dzania jego ilo&#347;ci&#261;. U&#380;ytkownik mo&#380;e sprawdzi&#263; szczeg&#243;&#322;owe dane o historii &#347;redniego zu&#380;ycia i histori&#281; ostatnich zmian ilo&#347;ci zasobu. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; zaaktualizowania ilo&#347;ci, przez wprowadzenie nowego numeru. U&#380;ytkownik mo&#380;e tak&#380;e usun&#261;&#263; dany zas&#243;b z bazy.
+1b. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; dodania nowego zasobu do bazy. W tym celu musi wprowadzi&#263; jego opis i aktualn&#261; ilo&#347;&#263;. Tak wprowadzone dane s&#261; wpisywane do bazy jako nowy rekord i s&#261; dost&#281;pne przy przegl&#261;daniu zosob&#243;w.
 
 
-Przebieg alterantywny:
-1. U&#380;ytkownik z punktu 2 i 3 ma mo&#380;liwo&#347;&#263; powrotu do punktu 1
-
+Przebieg alternatywny:
+1. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; powrotu do punkt&#243;w 1a lub 1b, z dowolnego innego punktu przebiegu.
 
 Warunki zako&#324;czenia:
-Je&#347;li wiadomo&#347;&#263; o zam&#243;wieniu zosta&#322;&#261; dostarczona to ko&#324;czy sie, a je&#347;li wyst&#261;pi&#322; b&#322;&#261;d to ponawia zam&#243;wienie do skutku co 15 minut.</XPD:ATTR>
+1. U&#380;ytkownik zamyka modu&#322; zarz&#261;dzania inwentaryzacj&#261;.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">sgsqOV4sUEGZd5RKGAW8dgAA</XPD:REF>
@@ -4267,8 +4317,7 @@ Je&#347;li wiadomo&#347;&#263; o zam&#243;wieniu zosta&#322;&#261; dostarczona t
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[56]" type="UMLUseCase" guid="g9PHHIuygU+GsOzImObIXwAA">
 <XPD:ATTR name="Name" type="string">Wgl&#261;d do danych o ubezpieczeniach</XPD:ATTR>
-<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe
-
+<XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
 1. System kliniki uwierzytelniony do &#322;&#261;czenia si&#281; z baz&#261; EWU&#346;.
 2. Pracownik rejestracji jest zalogowany na konto osobiste w systemie kliniki.
 
@@ -4363,19 +4412,19 @@ Warunki ko&#324;cowe:
 <XPD:OBJ name="OwnedElements[62]" type="UMLUseCase" guid="SJbUisS5NECRa3ixQ/TwgAAA">
 <XPD:ATTR name="Name" type="string">Wgl&#261;d do mapy kliniki</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik jest zalogowany i posiada odpowiedni dost&#281;p
-2. u&#380;ytkownik w&#322;&#261;czy mape kliniki poprzez odpowiedni przycisk w jego aplikacji
+1. U&#380;ytkownik jest zalogowany i ma odpowiednie uprawnienia.
+2. U&#380;ytkownik w&#322;&#261;czy&#322; podgl&#261;d mapy kliniki.
 
 Przebieg:
-1. U&#380;ytkownik ma zaznaczono na czerwono pok&#243;j z aktualnym wezwaniem
-2. u&#380;ytkownik ma zaznaczone na niebiesko pokoje z ekwipunkiem sprz&#261;taj&#261;cym
-3. u&#380;ytkownik mo&#380;e dowolnie zmieni&#263; rozmiar mapy oraz j&#261; przesuwa&#263; za pomoc&#261; dotkni&#281;cia
+1. U&#380;ytkownik widzi zaznaczone pokoje, w kt&#243;rych oczekiwana jest intwerwencja personelu sprz&#261;taj&#261;cego.
+2 U&#380;ytkownik mo&#380;e zaznaczy&#263;, &#380;e wskazany pok&#243;j zosta&#322; posprz&#261;tany.
+3. U&#380;ytkownik mo&#380;e dowolnie skalowa&#263; i przemieszcza&#263; widok mapy.
 
-Przebieg alterantywny
-1. Punkty 1-3 mog&#261; by&#263; realizowane w dowolnej kolejno&#347;ci
+Przebieg alternatywny:
+1. Punkty 1-3 mog&#261; by&#263; realizowane w dowolnej kolejno&#347;ci i s&#261; opcjonalne.
 
 Warunek zako&#324;czenia:
-1. U&#380;ytkownik zamyka mape odpowiednik przyciskiem</XPD:ATTR>
+1. U&#380;ytkownik zamykn&#261;&#322; map&#281; kliniki.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">UlcZixbNzkyfzbOvygdgzwAA</XPD:REF>
@@ -4401,18 +4450,18 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedElements[64]" type="UMLUseCase" guid="/slKldLoQ0uytrYhPMiJQwAA">
 <XPD:ATTR name="Name" type="string">Wezwanie personelu sprz&#261;taj&#261;cego</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. U&#380;ytkownik jest zalogowany i posiada uprawnienia pracownika kliniki.
+1. U&#380;ytkownik jest zalogowany i ma uprawnienia pracownika kliniki.
 2. Wybranie opcji &quot;Wezwij personel sprz&#261;taj&#261;cy.&quot;
 
 Przebieg
 1. Wybranie pomieszczenia, do kt&#243;rego personel ma by&#263; wezwany.
 2. Wybranie powodu wezwania.
 3. Wybranie priorytetu wezwania.
-4. Zatwierdzenie wezwania, skutuj&#261;ce wys&#322;aniem przez system komunikatu do personelu sprz&#261;taj&#261;cego.
+4. Zatwierdzenie wezwania, skutkuj&#261;ce wys&#322;aniem przez system komunikatu do personelu sprz&#261;taj&#261;cego.
 
 Przebieg alternatywny:
-1.  Mo&#380;liwo&#347;c przerwania procesu wzywania personelu sprz&#261;taj&#261;cego w punktach od 1 do 3.
-2. Mo&#380;liwo&#347;&#263; cofni&#281;cia wezwania po punkcie 4. 
+1. Mo&#380;liwo&#347;&#263; przerwania procesu wzywania personelu sprz&#261;taj&#261;cego w punktach od 1 do 3.
+2. Mo&#380;liwo&#347;&#263; cofni&#281;cia wezwania po punkcie 4.
 
 Warunek zako&#324;czenia
 1. Zatwierdzenie wezwania.
@@ -4442,18 +4491,20 @@ Warunek zako&#324;czenia
 <XPD:OBJ name="OwnedElements[66]" type="UMLUseCase" guid="UfEtPF/xvkCTgztkhlyS7QAA">
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie listy wizyt i pacjent&#243;w</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
-1. Lekarz musi by&#263; zalogowany
-2. Z dost&#281;pnego interfejsu wybiera plan dnia
+1. Lekarz musi by&#263; zalogowany.
+2. Z dost&#281;pnego interfejsu wybra&#322; przegl&#261;danie planu podanego dnia.
 
 Przebieg:
-1. Lekarzwoi wy&#347;wietla sie lista zaplanowanych wizyt i zabieg&#243;w z zaznaczon&#261;  godzin&#261;
-2. Lekarz mo&#380;e wybra&#263; pacjentai wej&#347;&#263; w przegl&#261;danie dokumentacji medycznej
-3. Lekarz mo&#380;e wybra&#263; dowoln&#261; wizyte i wej&#347;&#263; w jej szczeg&#243;&#322;y takie jak typ tej wizyty(zabieg, konsultacja), skierowania i inne informacje z ni&#261; zwi&#261;zane.
+1. Lekarzowi wy&#347;wietla sie lista zaplanowanych wizyt i zabieg&#243;w posortowana wed&#322;ug godzin (wy&#347;wietlany jest ca&#322;y dzie&#324;).
+2. Lekarz mo&#380;e wybra&#263; wizyt&#281;, co spowoduje wy&#347;wietlenie szczeg&#243;&#322;owych informacji na jej temat, takich jak gabinet, rodzaj wizyty (definiowany przez dzia&#322; bada&#324; medycznych), opcjonalnie skierowanie i podstawowe dane osobowe pacjenta. Ze szczeg&#243;&#322;owego widoku mo&#380;na te&#380; przej&#347;&#263; do przegl&#261;dania dokumentacji medycznej.
 
 Przebieg alternatywny:
-1. opcje 2,3 s&#261; opcjonalne
-2a. Lekarz ma mo&#380;liwo&#347;&#263; stworzenia wizyty. W tym wpyadku musi poda&#263; dane pacjenta i odnale&#347;&#263; go w bazie danych przychodni. Je&#347;li pacjenta w niej nie ma, pacjent musi przej&#347;&#263; proces planowania wizyty przez rejestracje.
-3.Lekraz mo&#380;e zamkn&#261;&#263; panel pomijaj&#261;&#263; zmiany</XPD:ATTR>
+1. Opcja 2 jest opcjonalna.
+2a. Lekarz ma mo&#380;liwo&#347;&#263; stworzenia nag&#322;ej i nieplanowanej wizyty. W tym wypadku musi poda&#263; dane pacjenta i odnale&#378;&#263; go w bazie danych przychodni. Je&#347;li pacjenta w niej nie ma, pacjent musi przej&#347;&#263; proces planowania wizyty przez rejestracje.
+3. Lekarz mo&#380;e wycofa&#263; si&#281; z punktu 2. do 1., a z punktu 1. mo&#380;e wr&#243;ci&#263; do wyboru dnia.
+
+Warunki zako&#324;czenia:
+1. Zamkni&#281;cie planu dnia.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">VfOtQjvwCk23qZaM+iSFnQAA</XPD:REF>
@@ -4464,6 +4515,8 @@ Przebieg alternatywny:
 <XPD:REF name="Associations[0]">yBZKdmGGKkyJ2YYheWj97wAA</XPD:REF>
 <XPD:ATTR name="#Extenders" type="integer">1</XPD:ATTR>
 <XPD:REF name="Extenders[0]">ywJmUrgf3EeN9MGdF8DWbgAA</XPD:REF>
+<XPD:ATTR name="#Includers" type="integer">1</XPD:ATTR>
+<XPD:REF name="Includers[0]">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[67]" type="UMLUseCase" guid="5Npul30F+UKwhaud4OeuCwAA">
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie terminarza</XPD:ATTR>
@@ -4496,15 +4549,15 @@ Warunki ko&#324;cowe
 <XPD:ATTR name="Name" type="string">Przegl&#261;danie wezwa&#324; do sprz&#261;tania</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
 1. U&#380;ytkownik zalogowany i posiada role personel sprz&#261;taj&#261;cy
-2. Wej&#347;cie przez aplikacje mobiln&#261; do panelu sprz&#261;ta&#324;
+2. U&#380;ytkownik otworzy&#322; panel do przegl&#261;dania wezwa&#324;.
 
 Przebieg:
-1. Wy&#347;wietlenie przydzielonych wezwa&#324;. Kolejno&#347;&#263; ich realizacji jest posortowana najpierw wed&#322;ug priorytetu, a nast&#281;pnie d&#322;ugo&#347;ci istnienia(im starsze wezwanie tym wy&#380;sza pozycja)
-2. Po wybraniu wezwania wy&#347;wietla si&#281; szczeg&#243;&#322;owe informacje takie jak pow&#243;d wezwania oraz sala. U&#380;ytkownik mo&#380;e wybra&#263; tylko najwy&#380;ej spozycjonowane wezwanie.
-3. Po realizacji wezwania u&#380;ytkownik oznacza wezwanie jako uko&#324;czone i przechodzi spowrotem do listy wezwa&#324;.
+1. Wy&#347;wietlenie przydzielonych u&#380;ytkownikowi wezwa&#324;. Kolejno&#347;&#263; ich realizacji jest posortowana najpierw wed&#322;ug priorytetu, a nast&#281;pnie d&#322;ugo&#347;ci istnienia (im starsze wezwanie, tym wy&#380;sza pozycja)
+2. Po wybraniu wezwania wy&#347;wietla si&#281; szczeg&#243;&#322;owe informacje takie jak pow&#243;d wezwania oraz sala. 
+3. Po realizacji wezwania u&#380;ytkownik oznacza wezwanie jako uko&#324;czone i przechodzi z powrotem do listy wezwa&#324;.
 
 Warunki zako&#324;czenia:
-1. U&#380;ytkownik gdy jego czas pracy dobiega ko&#324;ca jest powiadomiany przez apliakcje, w&#243;wczas pozosta&#322;e jego wezwania s&#261; przepierowane na pozosta&#322;y personel sprz&#261;taj&#261;cy.
+1. U&#380;ytkownik zamyka panel do przegl&#261;dania wezwa&#324;.
 </XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -4733,15 +4786,15 @@ Warunki zako&#324;czenia:
 
 Przebieg:
 1. Podanie nazwy u&#380;ytkownika oraz has&#322;a.
-2. Naci&#347;ni&#281;cie przycisku zaloguj si&#281;, po kt&#243;rym system dokona weryfikacji danych u&#380;ytkownika przy uzyciu bazy u&#380;ytkownik&#243;w systemu.
-3. W przypadku powodzenia u&#380;ytkownik, zostaje zalogowany.
+2. Naci&#347;ni&#281;cie przycisku zaloguj si&#281;, po kt&#243;rym system dokona weryfikacji danych u&#380;ytkownika przy u&#380;yciu bazy u&#380;ytkownik&#243;w systemu.
+3. W przypadku powodzenia u&#380;ytkownik zostaje zalogowany.
 
 Przebieg alternatywny:
 1. U&#380;ytkownik mo&#380;e w punktach 1-2 przerwa&#263; proces logowania.
-3a. W przypadku niepowodzenia, wy&#347;wietlany jest odpowiedni komunikat i program wraca do punktu 1.
+3a. W przypadku niepowodzenia wy&#347;wietlany jest odpowiedni komunikat i program wraca do punktu 1.
 
 Warunek zako&#324;czenia:
-1. U&#380;ytkownik zosta&#322; zautoryzowany i jest uwierzytelniony w systemie</XPD:ATTR>
+1. U&#380;ytkownik zosta&#322; autoryzowany i jest uwierzytelniony w systemie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">z6XUkDyoc0eWQeV35DtfygAA</XPD:REF>
@@ -4856,6 +4909,26 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Views[2]">q5P99aynAUObfd0cuWCxxgAA</XPD:REF>
 <XPD:REF name="Views[3]">Fs41dM3mWEKdufyfbpDewQAA</XPD:REF>
 </XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[87]" type="UMLExtend" guid="3N8JnU/8z0mNWZYasPEidQAA">
+<XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
+<XPD:REF name="Base">3mce4bcrrEGsOFf6TKV71QAA</XPD:REF>
+<XPD:REF name="Extension">eBWEUM9FDku7UrbEAgmXXwAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">YzvNTtKXME6I+9RkFTAMuQAA</XPD:REF>
+<XPD:REF name="Views[1]">PdAyDK7V7USXCDJz2A16+wAA</XPD:REF>
+<XPD:REF name="Views[2]">Ce4cUT0lLkq3iuNRN67X5gAA</XPD:REF>
+<XPD:REF name="Views[3]">BlR+0pNkc0mkLAqd83OH4QAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[88]" type="UMLInclude" guid="+w0Nqx8nA0axd3J2iVdC9QAA">
+<XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
+<XPD:REF name="Addition">UfEtPF/xvkCTgztkhlyS7QAA</XPD:REF>
+<XPD:REF name="Base">3mce4bcrrEGsOFf6TKV71QAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">4HOOEiol3EG/tz4jnETmSwAA</XPD:REF>
+<XPD:REF name="Views[1]">OK1CG3NowUac9WSpQWDR0AAA</XPD:REF>
+<XPD:REF name="Views[2]">Kb9FzzX7EUigPyNfFuc3LAAA</XPD:REF>
+<XPD:REF name="Views[3]">SVAGAbFMQkuZxGefUWuY0QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLModel" guid="jqd9q6xlD02cnltdiU3b/QAA">
