@@ -27,7 +27,7 @@
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">236</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">112</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">1653</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">1073</XPD:ATTR>
 <XPD:ATTR name="Caption" type="string">System</XPD:ATTR>
@@ -398,7 +398,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="OKcDC2FPDkKBlBrZ0BKDqgAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,57079710177653</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">7</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">/XeUVaCFk0W47myYR0JD/AAA</XPD:REF>
@@ -716,8 +715,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="aukUspaLQU25jTa6QU8Y5wAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">0,865001965380149</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">26,1725046566048</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">BcYkpgT2NUSJjgKTfciWOQAA</XPD:REF>
 </XPD:OBJ>
@@ -1258,8 +1255,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Xbc3Upph3k6bJ4N0pXkPoQAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-0,978057915310613</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">29,2061637330205</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">iEWwWmC3N0i4ZsyHGDr2pgAA</XPD:REF>
 </XPD:OBJ>
@@ -1356,8 +1351,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ni4z+mjcXkKR+qW8b1Sp/QAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,84130947565494</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">22,1359436211787</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">sM4MdM/OPk2nIRF3xWFxXQAA</XPD:REF>
 </XPD:OBJ>
@@ -1496,8 +1489,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="TlVHnou/8kCcdZSy6q+t8QAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,77829240361903</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">19,4164878389476</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">iX1TicJ9bE2dCvc0dNuobgAA</XPD:REF>
 </XPD:OBJ>
@@ -1548,7 +1539,7 @@
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1400</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">288</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">284</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">339</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">meVzG1JIB0yClt28DqfE7wAA</XPD:REF>
@@ -1617,7 +1608,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1738,300;1892,290</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1738,297;1892,289</XPD:ATTR>
 <XPD:REF name="Model">I8yVY4q3T0uSQ5sx5v+ckgAA</XPD:REF>
 <XPD:REF name="Head">Fod4G2SanEevHZD0T4z+CwAA</XPD:REF>
 <XPD:REF name="Tail">Q0iOTRQkMUGY+WVrEibltgAA</XPD:REF>
@@ -1694,7 +1685,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1916,199;1638,288</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1916,199;1640,284</XPD:ATTR>
 <XPD:REF name="Model">PiTXiI6s9kG4mbJmo9xh/AAA</XPD:REF>
 <XPD:REF name="Head">Q0iOTRQkMUGY+WVrEibltgAA</XPD:REF>
 <XPD:REF name="Tail">9fhOKuFQeU25XHh5KMafggAA</XPD:REF>
@@ -2639,8 +2630,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="zo15YPD3a0G/uWZlgkLfIwAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,60526616149757</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">12,7279220613579</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">ywJmUrgf3EeN9MGdF8DWbgAA</XPD:REF>
 </XPD:OBJ>
@@ -2964,8 +2953,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="5SPZ8oqdikm1bOCpFjhWKAAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">0,10535183101915</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">53,160135440008</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">S06w2opZBkufiJAF7P9BUAAA</XPD:REF>
 </XPD:OBJ>
@@ -2992,8 +2979,6 @@
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="OqJQlZdmOEqaR3/ij4lMBgAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">3,79556818077626</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">33,1360830515618</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">oOt5JeQOhEC2d9Hzsd/AigAA</XPD:REF>
 </XPD:OBJ>
@@ -3168,21 +3153,18 @@
 <XPD:REF name="Tail">SW0s5lm/7k6785wJ012t+gAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="PdAyDK7V7USXCDJz2A16+wAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Ce4cUT0lLkq3iuNRN67X5gAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;extend&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="BlR+0pNkc0mkLAqd83OH4QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">3N8JnU/8z0mNWZYasPEidQAA</XPD:REF>
 </XPD:OBJ>
@@ -3198,21 +3180,17 @@
 <XPD:REF name="Tail">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="OK1CG3NowUac9WSpQWDR0AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Kb9FzzX7EUigPyNfFuc3LAAA">
 <XPD:ATTR name="FontFace" type="string">Comic Sans MS</XPD:ATTR>
 <XPD:ATTR name="FontSize" type="integer">11</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-0,798634296961676</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">28,0713376952364</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;include&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="SVAGAbFMQkuZxGefUWuY0QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
 <XPD:REF name="Model">+w0Nqx8nA0axd3J2iVdC9QAA</XPD:REF>
 </XPD:OBJ>
@@ -3361,10 +3339,7 @@ Przebieg alternatywny:
 1. Ze wszystkich punkt&#243;w obu przebieg&#243;w mo&#380;na wycofa&#263; si&#281; do punktu 1. tego przebiegu. Ewentualne zmiany wprowadzone w systemie, zostaj&#261; automatycznie wycofane.
 
 Warunki zako&#324;czenia:
-W przypadku Pacjenta
-1. Wylogowanie si&#281; z konta przez pacjenta.
-W przypadku Pracownika rejestracji
-1. Wylogowanie si&#281; z konta przez pracownika rejestracji.</XPD:ATTR>
+Utworzenie nowej wizyty, odwo&#322;anie wizyty, zmiana terminu wizyty</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">z3ETOUeAkkq5sEk9l6/q8AAA</XPD:REF>
@@ -3446,7 +3421,7 @@ Przebieg:
 Uwagi: W razie niepowodzenia &#347;cie&#380;ki a lub b, u&#380;ytkownik mo&#380;e spr&#243;bowa&#263; wykona&#263; je ponownie.
 
 Warunki ko&#324;cowe:
-1. U&#380;ytkownik przechodzi do kolejnego kroku tworzenia wizyty, wykorzystuj&#261;c skierowania b&#261;d&#378; te&#380; nie.</XPD:ATTR>
+System posiada podpi&#281;te skierowanie do danej wizyty</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">E4an6NA53kGLyZkiWk+k3QAA</XPD:REF>
@@ -3491,7 +3466,7 @@ Przebieg alternatywny:
 2. Je&#347;li nadal wys&#322;anie ko&#324;czy si&#281; b&#322;&#281;dem, zako&#324;cz wysy&#322;adnie dla danej wizyty i zanotuj b&#322;&#261;d w logach systemu.
 
 Warunki zako&#324;czenie:
-1. Podj&#281;cie pr&#243;by wys&#322;ania wiadomo&#347;ci dla ka&#380;dego klienta dnia nast&#281;pnego.</XPD:ATTR>
+1. Klienci otrzymuje powiadomienie. System oznacza w wizytach, &#380;e klient otrzyma&#322; powiadmienie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">cSaz1HNUG0WOPgHMEJqF6AAA</XPD:REF>
@@ -3536,17 +3511,17 @@ Warunki zako&#324;czenie:
 
 Przebieg:
 1. Dokumentacja jest posortowana wzgl&#281;dem daty dodania. U&#380;ytkownik wybiera, z kt&#243;rego dnia chce przejrze&#263; dane.
-2. Po wybraniu dniu wy&#347;wietlany s&#261; pliki zwi&#261;zane z wizytami takie jak opisy, zdj&#281;cia, zalecenia, przypisane leki.
-3. Po wybraniu na odpowiedni plik jest on wy&#347;wietlany. Istnieje mo&#380;liwo&#347;&#263; otwarcia kilku plik&#243;w naraz(na przyk&#322;ad opis zdj&#281;cia i zdj&#281;cie)
-4. Niekt&#243;re pliki w momencie pr&#243;by dost&#281;pu pobieraj&#261; aktualizacje. Na przyk&#322;ad plik z receptami pobiera informacje o ich realizacji. Po pobraniu aktualizacji plik ponownie si&#281; zapisuje w zaktualizowanej formie.
-5. Mo&#380;na zamkn&#261;&#263; plik, poprzez naci&#347;ni&#281;cie zamknij plik.
-6. Je&#347;li u&#380;ytkownik jest lekarzem, mo&#380;e wej&#347;&#263; w edycje pliku.
+2. Po wybraniu dniu wy&#347;wietlany s&#261; dokumenty zwi&#261;zane z wizytami takie jak opisy, zdj&#281;cia, zalecenia, przypisane leki.
+3. Po wybraniu na odpowiedni dokument jest on wy&#347;wietlany stosownie do jego rodzaju. Istnieje mo&#380;liwo&#347;&#263; otwarcia kilku dokumetn&#243;w naraz(na przyk&#322;ad opis zdj&#281;cia i zdj&#281;cie)
+4. Niekt&#243;re dokumenty w momencie pr&#243;by dost&#281;pu pobieraj&#261; aktualizacje. Na przyk&#322;ad recepta pobiera informacje o swojej realizacji. Po pobraniu aktualizacji pozostaje on w nowszej wersji w systemie.
+5. Wyj&#347;cie z konkretnego dokumentu jest mo&#380;liwe w ka&#380;dej chwili.
+6. Je&#347;li u&#380;ytkownik jest lekarzem, mo&#380;e przej&#347;&#263; do edycji dokument&#243;w takich jak diagnoza, opisy itd.
 
 Przebieg alternatywny:
 1. W ka&#380;dej chwili istnieje mo&#380;liwo&#347;&#263; powrotu do punkt&#243;w 1 oraz 2.
 
 Warunki zako&#324;czenia:
-1. Opuszczenie przegl&#261;dania dokumentacji poprzez zamkni&#281;cie panelu przegl&#261;du dokumentacji.</XPD:ATTR>
+1. Brak zmian w systemie je&#347;li nie zarz&#261;dzano dokumentacj&#261;, u&#380;ytkownik posiada dane dotycz&#261;ce jego dokument&#243;w</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">wjq9JoXMCUmuP2nZuHH6VQAA</XPD:REF>
@@ -3569,9 +3544,9 @@ Warunki zako&#324;czenia:
 1. U&#380;ytkownik jest lekarzem i wybra&#322; opcj&#281; edycji dokumentacji.
 
 Przebieg:
-1. Lekarz ma mo&#380;liwo&#347;&#263; edycji plik&#243;w tekstowych
-2a. Lekarz ma mo&#380;liwo&#347;&#263; utworzenia nowego pliku.
-2b. Lekarz ma mo&#380;liwo&#347;&#263; dodania pliku z dysku.
+1. Lekarz edytuje dokumentacje. Mo&#380;e zmieni&#263; zakres recepty, dopisa&#263; jakie&#347; leki do innej wizyty, ale tylko w przeci&#261;gu ostatnich 2 tygodni. Je&#347;li dokuemtn jest starszy nie ma mo&#380;liwo&#347;ci jego edycji.
+2a. Lekarz ma mo&#380;liwo&#347;&#263; utworzenia nowego dokumentu, naprzyk&#322;ad dodanie opisu jakiego&#347; badania zleconego na danej wizycie i do&#322;&#261;czenia odpowiednich wynik&#243;w
+2b. Lekarz ma mo&#380;liwo&#347;&#263; wgrania wynik&#243;w czy innnych dokument&#243; z dysku
 3. Lekarz ma mo&#380;liwo&#347;&#263; kopiowania danych ze starszych wizyt do nowych.
 
 Przebieg alternatywny:
@@ -3579,7 +3554,7 @@ Przebieg alternatywny:
 2. U&#380;ytkownik mo&#380;e cofn&#261;&#263; wszystkie wprowadzone zmiany, zmiany w obr&#281;bie pliku lub w obr&#281;bie dnia.
 
 Warunki ko&#324;cowe:
-1. Wyj&#347;cie z trybu edycji dokumentu przez u&#380;ytkownika.</XPD:ATTR>
+Aktualizacja dokument&#243;w w systemie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">SW0s5lm/7k6785wJ012t+gAA</XPD:REF>
@@ -3691,22 +3666,22 @@ Warunki ko&#324;cowe:
 <XPD:ATTR name="Name" type="string">Podsumowanie wizyty</XPD:ATTR>
 <XPD:ATTR name="Documentation" type="string">Warunki pocz&#261;tkowe:
 1. Lekarz jest zalogowany na swoje konto.
-2. Lekarz wszed&#322; w tryb podsumowania konkretnej i wybranej w &quot;module przegl&#261;dania wizyt i pacjent&#243;w&quot; wizyty.
 
 Przebieg:
-1. Lekarz wype&#322;nia raport podsumowuj&#261;cy wizyt&#281;.
-2. Lekarz mo&#380;e przydzieli&#263; recept&#281; przez dodanie lek&#243;w, rozmiar&#243;w opakowa&#324; i ich dawkowania, wykorzystuj&#261;c modu&#322; bazy lek&#243;w i procedur. Mo&#380;e tak&#380;e wybra&#263; stopie&#324; refundacji ka&#380;dego wprowadzonego leku. System po&#322;&#261;czy wprowadzone dane w recept&#281;.
-3. Lekarz mo&#380;e wypisa&#263; zwolnienie, wprowadzaj&#261;c jego przedzia&#322;y czasowe.
-4. Lekarz mo&#380;e dopisa&#263; dokumentacje medyczn&#261; (opisane w oddzielnym przypadku u&#380;ycia).
-5. Lekarz mo&#380;e wypisa&#263; e-skierowanie, kt&#243;rego zostaje dodane do bazy danych przychodni. Jego identyfikacja przebiega przez wykorzystanie unikalnego kodu.
-6. Na koniec lekarz potwierdza zako&#324;czenie wizyty, co skutkuje zapisaniem wprowadzonych danych do bazy systemu oraz zmien&#261; statusu wizyty na odbyt&#261;. Dodatkowo wysy&#322;ane jest powiadomienie do personelu sprz&#261;taj&#261;cego, po konkretnych rodzajach wizyt (definiowane przez dzia&#322; bada&#324; medycznych).
+1. Lekarz wszed&#322; w tryb podsumowania konkretnej i wybranej w &quot;module przegl&#261;dania wizyt i pacjent&#243;w&quot; wizyty.
+2. Lekarz wype&#322;nia raport podsumowuj&#261;cy wizyt&#281;.
+3. Lekarz mo&#380;e przydzieli&#263; recept&#281; przez dodanie lek&#243;w, rozmiar&#243;w opakowa&#324; i ich dawkowania, wykorzystuj&#261;c modu&#322; bazy lek&#243;w i procedur. Mo&#380;e tak&#380;e wybra&#263; stopie&#324; refundacji ka&#380;dego wprowadzonego leku. System po&#322;&#261;czy wprowadzone dane w recept&#281;.
+4. Lekarz mo&#380;e wypisa&#263; zwolnienie, wprowadzaj&#261;c jego przedzia&#322;y czasowe.
+5. Lekarz mo&#380;e dopisa&#263; dokumentacje medyczn&#261; (opisane w oddzielnym przypadku u&#380;ycia).
+6. Lekarz mo&#380;e wypisa&#263; e-skierowanie, kt&#243;rego zostaje dodane do bazy danych przychodni. Kod e-skierowania jest generowany przez system i drukuje si&#281; razem z informacjami dla pacjenta
+7. Na koniec lekarz potwierdza zako&#324;czenie wizyty, co skutkuje zapisaniem wprowadzonych danych do bazy systemu oraz zmien&#261; statusu wizyty na odbyt&#261;. Dodatkowo wysy&#322;ane jest powiadomienie do personelu sprz&#261;taj&#261;cego, po konkretnych rodzajach wizyt (definiowane przez dzia&#322; bada&#324; medycznych). Dodatkowo wszystkie dokumenty do druku takie jak zalecenia skierowania itp s&#261; przesy&#322;ane do drukarki w rejestracji, sk&#261;d pacjent je odbierze.
 
 Przebieg alternatywny:
 1. Opcje 2-5 mog&#261; zosta&#263; pomini&#281;te. 
 2. W ka&#380;dym momencie lekarz mo&#380;e zrezygnowa&#263; z wpisywania danych i wycofa&#263; si&#281; do dowolnego z wcze&#347;niejszych punkt&#243;w, ale nie wcze&#347;niej ni&#380; punkt 1.
 
 Warunki ko&#324;cowe
-1. Lekarz zapisuje zmiany.</XPD:ATTR>
+1. Wprowadzenie nowych dokument&#243;w takich jak recepta czy zwolnienie do systemu.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">+jsAxyGxBEKe29V5y6iUBgAA</XPD:REF>
@@ -3768,7 +3743,7 @@ Przebieg alternatywny:
 1. Otrzymanie kodu b&#322;&#281;du, pr&#243;ba ponownego wysy&#322;ania danych co okre&#347;lony interwa&#322; czasowy a&#380; do sukcesu.
 
 Warunki zako&#324;czenia:
-1. Wys&#322;anie danych ko&#324;czy si&#281; po otrzymaniu kodu 200 od serwera NFZ.</XPD:ATTR>
+1. NFZ otrzymuje stosowne dokuemnty. System oznacza dokumenty jako przes&#322;ane.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">u/kThjOBBES8bdUggSjC5AAA</XPD:REF>
@@ -3791,7 +3766,7 @@ Przebieg alternatywny:
 1. Otrzymanie kodu b&#322;&#281;du, pr&#243;ba ponownego wysy&#322;ania danych co  okre&#347;lony interwa&#322; czasowy a&#380; do sukcesu.
 
 Warunki zako&#324;czenia:
-1. Wys&#322;anie danych ko&#324;czy si&#281; po otrzymaniu informacji zwrotnej z potwierdzeniem od serwera ZUS-u.</XPD:ATTR>
+Zus otrzymuje zwolnienia. System oznacza zwolnienie jako wys&#322;ane.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AqpKIrukNUW37FOMoA/TngAA</XPD:REF>
@@ -3872,8 +3847,7 @@ Przebieg:
 
 
 Warunki zako&#324;czenia:
-1a. Zamkni&#281;cie modu&#322;u przegl&#261;dania bazy lek&#243;w i procedur.
-1b. Zako&#324;czenie procesu wyszukiwania z bazy danych lek&#243;w i procedur.</XPD:ATTR>
+U&#380;ytkownik odstaje informacje kt&#243;re wyszukiwa&#322;. Informacje mog&#261; by&#263; wprowadzone do formularza podsumowanie wizyty. Je&#347;li wszed&#322; w tryb modyfikacji, baza lek&#243;w i procedur zostaje zaktualizowana o wporwadzone moddyfikajce.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">IkVLwsP/gEKipoINGg9pZQAA</XPD:REF>
@@ -3949,7 +3923,7 @@ Przebieg alternatywny:
 3. U&#380;ytkownik ma w ka&#380;dej chwili mo&#380;lwwo&#347;&#263; przej&#347;cia do jednego z punkt&#243;w pocz&#261;tkowych przebiegu.
 
 Warunki ko&#324;cowe:
-1. U&#380;ytkownik ko&#324;czy edycje poprzez wyj&#347;cie z trybu przegl&#261;dania baz lek&#243;w i procedur.</XPD:ATTR>
+Baza danych jest zaktualizowana</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">NAHBU490fU2RO5H8zU5/BAAA</XPD:REF>
@@ -3979,13 +3953,14 @@ Przebieg:
 1. U&#380;ytkownik mo&#380;e wyszukiwa&#263; choroby, korzystaj&#261;c z kilku dost&#281;pnych filtr&#243;w. Mo&#380;e je wyszukiwa&#263; po nazwie, po fragmencie opisu lub po fragmencie opisu objaw&#243;w.
 2. Po wprowadzeniu wszystkich filtr&#243;w mo&#380;e wybra&#263; opcj&#281; &quot;Wyszukaj&quot;, po kt&#243;rej system przeszuka baz&#281; chor&#243;b i wy&#347;wietli wszystkie najbli&#380;sze wyniki.
 3. Z wyszukanych wynik&#243;w, u&#380;ytkownik mo&#380;e wybra&#263; konkretn&#261; chorob&#281; i tym samym przej&#347;&#263; do jej strony, zawieraj&#261;cej dok&#322;adny opis redagowany przez dzia&#322; bada&#324; medycznych.
+4. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; wej&#347;cia w tryb aktualizacji bazy chor&#243;b.
 
 Przebieg alternatywny:
 1. Z punktu 2 mo&#380;na cofn&#261;&#263; si&#281; do punktu 1.
 2. Z punktu 3 mo&#380;na cofn&#261;&#263; si&#281; do punktu 1 lub 2.
 
 Warunki zako&#324;czenia:
-1. Zamkni&#281;cie przez u&#380;ytkownika modu&#322;u przegl&#261;dania bazy chor&#243;b.</XPD:ATTR>
+U&#380;ytkownik dostaje dane przez niego wyszukiwane, kt&#243;re mog&#261; by&#263; wprowadzone do formularza podsumowanie wizyty. Je&#347;li u&#380;ytkownik wszed&#322; w aktualizacje bazy chor&#243;b to zostaje ona zaktualizowana</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">6QEel4QXlUS3KZxC9YjMLQAA</XPD:REF>
@@ -4089,7 +4064,10 @@ Przebieg:
 Przebieg alternatywny:
 1. Je&#347;li wyst&#261;pi&#322; b&#322;&#261;d, pon&#243;w kroki 1 i 2.
 Warunki ko&#324;cowe:
-1. Je&#347;li uda&#322;o si&#281; dostarczy&#263; powiadomienie to zako&#324;cz.</XPD:ATTR>
+1. Je&#347;li uda&#322;o si&#281; dostarczy&#263; powiadomienie to zako&#324;cz.
+
+Warunek ko&#324;cowy:
+Nowe wezwanie personelu sprz&#261;taj&#261;cego w systemie.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AoWUgoKEe06H1088U0QvFwAA</XPD:REF>
@@ -4132,7 +4110,7 @@ Przebieg:
 
 
 Warunki ko&#324;cowe
-1. Pracownik zamyka opcj&#281; przegl&#261;dania danych o pacjenatch.</XPD:ATTR>
+1. Pracownik posiada dane dotycz&#261;ce pacjent&#243;w</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Q0iOTRQkMUGY+WVrEibltgAA</XPD:REF>
@@ -4278,7 +4256,7 @@ Przebieg alternatywny:
 1. U&#380;ytkownik ma mo&#380;liwo&#347;&#263; powrotu do punkt&#243;w 1a lub 1b, z dowolnego innego punktu przebiegu.
 
 Warunki zako&#324;czenia:
-1. U&#380;ytkownik zamyka modu&#322; zarz&#261;dzania inwentaryzacj&#261;.</XPD:ATTR>
+1. Dane w systemie odno&#347;nie inwentarza zostaj&#261; zaktualizowane</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">sgsqOV4sUEGZd5RKGAW8dgAA</XPD:REF>
@@ -4424,7 +4402,7 @@ Przebieg alternatywny:
 1. Punkty 1-3 mog&#261; by&#263; realizowane w dowolnej kolejno&#347;ci i s&#261; opcjonalne.
 
 Warunek zako&#324;czenia:
-1. U&#380;ytkownik zamykn&#261;&#322; map&#281; kliniki.</XPD:ATTR>
+System aktualizuje posprz&#261;tanie pokoju.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">UlcZixbNzkyfzbOvygdgzwAA</XPD:REF>
@@ -4454,17 +4432,17 @@ Warunek zako&#324;czenia:
 2. Wybranie opcji &quot;Wezwij personel sprz&#261;taj&#261;cy.&quot;
 
 Przebieg
-1. Wybranie pomieszczenia, do kt&#243;rego personel ma by&#263; wezwany.
-2. Wybranie powodu wezwania.
-3. Wybranie priorytetu wezwania.
-4. Zatwierdzenie wezwania, skutkuj&#261;ce wys&#322;aniem przez system komunikatu do personelu sprz&#261;taj&#261;cego.
+1. U&#380;ytkownik wybiera pomieszczenia, do kt&#243;rego personel ma by&#263; wezwany.
+2. U&#380;ytkownik wybiera powodu wezwania.
+3. U&#380;ytkownik wybiera priorytetu wezwania.
+4.U&#380;ytkownik  zatwierdza wezwania, skutkuj&#261;ce wys&#322;aniem przez system komunikatu do personelu sprz&#261;taj&#261;cego.
 
 Przebieg alternatywny:
 1. Mo&#380;liwo&#347;&#263; przerwania procesu wzywania personelu sprz&#261;taj&#261;cego w punktach od 1 do 3.
 2. Mo&#380;liwo&#347;&#263; cofni&#281;cia wezwania po punkcie 4.
 
 Warunek zako&#324;czenia
-1. Zatwierdzenie wezwania.
+1. Wezwanie trafia do systemu i jest wys&#322;&#261;ne do personelu sprz&#261;taj&#261;cego.
 </XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -4504,7 +4482,7 @@ Przebieg alternatywny:
 3. Lekarz mo&#380;e wycofa&#263; si&#281; z punktu 2. do 1., a z punktu 1. mo&#380;e wr&#243;ci&#263; do wyboru dnia.
 
 Warunki zako&#324;czenia:
-1. Zamkni&#281;cie planu dnia.</XPD:ATTR>
+Stworzenie nowej wizyty, je&#347;li u&#380;ytkownik sie na to zdecydowa&#322;. Podsumowanie wizyty. Wprowadzenie nowej dokuemtnacji do systemu.</XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">VfOtQjvwCk23qZaM+iSFnQAA</XPD:REF>
@@ -4557,8 +4535,7 @@ Przebieg:
 3. Po realizacji wezwania u&#380;ytkownik oznacza wezwanie jako uko&#324;czone i przechodzi z powrotem do listy wezwa&#324;.
 
 Warunki zako&#324;czenia:
-1. U&#380;ytkownik zamyka panel do przegl&#261;dania wezwa&#324;.
-</XPD:ATTR>
+1. Wezwanie zrealizowane s&#261; oznaczone jako zrealizowane i usuwane z systemu. </XPD:ATTR>
 <XPD:REF name="Namespace">PlcZH59ZMUyxTJXSyCi5yAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">7a16cSNS9UWVnOmxs9HQeQAA</XPD:REF>
