@@ -6726,12 +6726,16 @@ Warunek zako&#324;czenia:
 </XPD:OBJ>
 <XPD:OBJ name="HeadMultiplicityLabel" type="EdgeLabelView" guid="SStTfi72TUeMOrTRxjBnJQAA">
 <XPD:ATTR name="FontSize" type="integer">12</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,643501411705786</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">20</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">1</XPD:ATTR>
 <XPD:REF name="Model">zHthtXTbn0u+Ec+y2KY3gwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="TailMultiplicityLabel" type="EdgeLabelView" guid="P8QZcvPj106dx5dMomSM3QAA">
 <XPD:ATTR name="FontSize" type="integer">12</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,828849376795752</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">16,2788205960997</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">1</XPD:ATTR>
 <XPD:REF name="Model">Vmns1x6cIkeAp/7iE3g73gAA</XPD:REF>
