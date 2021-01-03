@@ -14098,7 +14098,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:REF name="Tail">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="D0aFKuTPkEejIYJp7O08SQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,10714791779441</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">11,1803398874989</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">1 : znajd&#378;Pacjenta()</XPD:ATTR>
 <XPD:REF name="Model">HrsLUBL03EqlqB/rXHjT1AAA</XPD:REF>
 <XPD:REF name="HostEdge">63Vv1S+pDE+OxA2Y2A4h2gAA</XPD:REF>
@@ -14126,12 +14127,13 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">462,180;717,180</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">462,185;717,185</XPD:ATTR>
 <XPD:REF name="Model">v/xqUlTft0OzWfX4QGR/RwAA</XPD:REF>
 <XPD:REF name="Head">YUeEtKpTIUWedeXEH20hqgAA</XPD:REF>
 <XPD:REF name="Tail">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="ShTKT76LF06GNdnFRInqbQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,718829380153037</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,6301458127347</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">2 : pobierzPesel()</XPD:ATTR>
 <XPD:REF name="Model">v/xqUlTft0OzWfX4QGR/RwAA</XPD:REF>
 <XPD:REF name="HostEdge">mXK5zO/DCkGz+1NfDoFY4AAA</XPD:REF>
@@ -14150,7 +14152,7 @@ Warunek zako&#324;czenia:
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="YHsVX747s0SZ5MvNC3XWogAA">
 <XPD:ATTR name="Left" type="integer">717</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">180</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">185</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
@@ -14159,12 +14161,13 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">717,196;462,196</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">717,202;462,202</XPD:ATTR>
 <XPD:REF name="Model">QyJztZpmiEmSu9O7HvrYQQAA</XPD:REF>
 <XPD:REF name="Head">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:REF name="Tail">YUeEtKpTIUWedeXEH20hqgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="/QS5d/V14EKoniclzueQQAAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,44644256301756</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">8,06225774829855</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">3 : Pesel</XPD:ATTR>
 <XPD:REF name="Model">QyJztZpmiEmSu9O7HvrYQQAA</XPD:REF>
 <XPD:REF name="HostEdge">4Pbzel372Emwp1OUBKHDRgAA</XPD:REF>
@@ -14184,7 +14187,7 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="PWR4uOATpE26kRWH5U4UlQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">449</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">196</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">202</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
@@ -14198,7 +14201,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:REF name="Tail">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="C9F9UFHI20GYk9P2XaYYHQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,76819219459326</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,1980390271856</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">4 : Pacjent</XPD:ATTR>
 <XPD:REF name="Model">afsQWN4hS0GfbhNp7GJNqgAA</XPD:REF>
 <XPD:REF name="HostEdge">261Av2VF00+zTyghNjZj1AAA</XPD:REF>
@@ -14232,7 +14236,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:REF name="Tail">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="sloF6hhxj02p5VR7anGf6gAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,19028908761386</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,770329614269</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">5 : dodajU&#380;ytkownika()</XPD:ATTR>
 <XPD:REF name="Model">0Z5ODwZMx0GbBWbYOQdoHQAA</XPD:REF>
 <XPD:REF name="HostEdge">IHqmw+E9EEGkd/oXYHlvvwAA</XPD:REF>
@@ -14265,7 +14270,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">YUeEtKpTIUWedeXEH20hqgAA</XPD:REF>
 <XPD:REF name="Tail">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="qZki+qB0zk2rnZVdyLkP6wAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,737814607632002</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14,8660687473185</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">6 : Create()</XPD:ATTR>
 <XPD:REF name="Model">mJSQIm0G4U+UF7Lq3vVCnwAA</XPD:REF>
 <XPD:REF name="HostEdge">KJ2ozD1gDEWvjPSgT58g2gAA</XPD:REF>
@@ -14298,7 +14304,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:REF name="Tail">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="u4WO0fcZ9EyC9oe9A9cbcQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,03037756181875</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">11,6619037896906</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">7 : Pacjent</XPD:ATTR>
 <XPD:REF name="Model">EzQeq2irPUaWX1Rg6VaPnQAA</XPD:REF>
 <XPD:REF name="HostEdge">a4kiKUw/DE+9n+3tzdifYgAA</XPD:REF>
@@ -14332,7 +14339,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:REF name="Tail">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="ntn5Jw+x4EC4DiE+iR5niQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,837980672522477</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">13,4536240470737</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">8 : pobierzLekarzy()</XPD:ATTR>
 <XPD:REF name="Model">KQHk/bibekiotBTY+ycKqAAA</XPD:REF>
 <XPD:REF name="HostEdge">PvdXFRp6rkSFUtipfOT96AAA</XPD:REF>
@@ -14360,12 +14368,13 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">449,452;181,452</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">449,466;181,466</XPD:ATTR>
 <XPD:REF name="Model">P0wE5jrxaEmvvoLuKA8ajwAA</XPD:REF>
 <XPD:REF name="Head">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:REF name="Tail">GBJVLEt60EunvEsG4b04DAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Y13Wc5QLBkm4wOP5155vrAAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,960071033546943</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">12,2065556157337</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">9 : lekarze</XPD:ATTR>
 <XPD:REF name="Model">P0wE5jrxaEmvvoLuKA8ajwAA</XPD:REF>
 <XPD:REF name="HostEdge">Tv6a6VVZKE6jeuCtfAjMPAAA</XPD:REF>
@@ -14385,7 +14394,7 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="85eKbSxq5kGIPEGq/LHDYgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">181</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">452</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">466</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
@@ -14399,7 +14408,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">c8WESIhV40mmBU9xQtH4vAAA</XPD:REF>
 <XPD:REF name="Tail">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="cejdBw9wkkS9m3re1aAUAQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,785397663397698</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14,142135623731</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">10 : znajdzWolneTerminy()</XPD:ATTR>
 <XPD:REF name="Model">I+Hc1W+NN0yvPbic6eyv3gAA</XPD:REF>
 <XPD:REF name="HostEdge">nTcZTuFjYEmPbBu95GC3hgAA</XPD:REF>
@@ -14432,7 +14442,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:REF name="Tail">c8WESIhV40mmBU9xQtH4vAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Vy1HbJHOq02i1YKph2eD3gAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,27933861488609</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,4403065089106</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">11 : znajdzWolneTerminy()</XPD:ATTR>
 <XPD:REF name="Model">JXlM4xUlRUy4yv9jcC4xQQAA</XPD:REF>
 <XPD:REF name="HostEdge">Hle6volJz067FKroSZYh6wAA</XPD:REF>
@@ -14465,6 +14476,7 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">VZxa8AiuHkGKw9b7JGlC/wAA</XPD:REF>
 <XPD:REF name="Tail">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="BZmpW0D0m0WaEH+eSPQjzAAA">
+<XPD:ATTR name="Alpha" type="real">0,643500508793764</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">12 : we&#378;Dat&#281;()</XPD:ATTR>
 <XPD:REF name="Model">v2VaI4A7b0qUIElP7F01YAAA</XPD:REF>
@@ -14498,7 +14510,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:REF name="Tail">VZxa8AiuHkGKw9b7JGlC/wAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="KNffEioCoUSCqKtSS9ar5QAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,249047272399</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">6,32455532033676</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">13 : data</XPD:ATTR>
 <XPD:REF name="Model">ItOiiubj/0u+cSrZGrDtZAAA</XPD:REF>
 <XPD:REF name="HostEdge">+lx0pvfO4E+TwNTIfB231QAA</XPD:REF>
@@ -14532,7 +14545,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">VZxa8AiuHkGKw9b7JGlC/wAA</XPD:REF>
 <XPD:REF name="Tail">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="/93eHCS83Uq+eqSnFHs6uwAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4,51499372848366</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,1980390271856</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">14 : czyWolny()</XPD:ATTR>
 <XPD:REF name="Model">5F2JCgCMvUWRNT2Pbdz0lAAA</XPD:REF>
 <XPD:REF name="HostEdge">Z63zyk1dn0KXO3YrJ88GfgAA</XPD:REF>
@@ -14565,7 +14579,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:REF name="Tail">VZxa8AiuHkGKw9b7JGlC/wAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="mnh1WlUpD02QjKpF4whvdAAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,27934044974847</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,4403065089106</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">15 : wolny</XPD:ATTR>
 <XPD:REF name="Model">cjAi9+YXyUKtpiC+7BXujwAA</XPD:REF>
 <XPD:REF name="HostEdge">5OX2OpUo/EKlZazvRr2ZhwAA</XPD:REF>
@@ -14599,7 +14614,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">c8WESIhV40mmBU9xQtH4vAAA</XPD:REF>
 <XPD:REF name="Tail">Vol8oPanb0O3fR1qG47lvwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="xPVOyyBiSUexeD0sb6OmSwAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,7126934278092</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14,142135623731</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">16 : listaWolnychTermin&#243;w</XPD:ATTR>
 <XPD:REF name="Model">/irjTny070KRrjiRSPZJNgAA</XPD:REF>
 <XPD:REF name="HostEdge">q2H5U2Bgqk6QPjKeXkTExQAA</XPD:REF>
@@ -14633,7 +14649,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:REF name="Tail">c8WESIhV40mmBU9xQtH4vAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Oe+mNZOAFEum1NS02UBf5wAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">2,14213365845373</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">16,6433169770932</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">17 : listaWolnychTermin&#243;w</XPD:ATTR>
 <XPD:REF name="Model">AbBeepTxdUy7EvpuK4b2PAAA</XPD:REF>
 <XPD:REF name="HostEdge">4CHvj7R6Zk+3FaLrHSaqzAAA</XPD:REF>
@@ -14667,7 +14684,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">e4DuHhi9OE+tWnN0R0gITwAA</XPD:REF>
 <XPD:REF name="Tail">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="/BviGBnlAUSVPeHNtvf+MwAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4,42093244974847</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10,4403065089106</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">18 : utw&#243;rzWizyt&#281;()</XPD:ATTR>
 <XPD:REF name="Model">3alS+LO1QEiBvhR0nuB2RwAA</XPD:REF>
 <XPD:REF name="HostEdge">SjHAubnCMkGk1n59w8HduQAA</XPD:REF>
@@ -14700,7 +14718,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">axxjQlihr02awjjvd+7W9QAA</XPD:REF>
 <XPD:REF name="Tail">e4DuHhi9OE+tWnN0R0gITwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="vi6HT3g9z0GXUErNhUHIfQAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3,87940751260938</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14,8660687473185</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">19 : Create()</XPD:ATTR>
 <XPD:REF name="Model">k04ANU3U9kK/L4ShfzhICgAA</XPD:REF>
 <XPD:REF name="HostEdge">gxYResHYtk2GIGTdbI21OwAA</XPD:REF>
@@ -14733,7 +14752,8 @@ Warunek zako&#324;czenia:
 <XPD:REF name="Head">QcATqaKwiEupC0yHCAgDXgAA</XPD:REF>
 <XPD:REF name="Tail">e4DuHhi9OE+tWnN0R0gITwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="jmheGJnsbUaOAEV2m48nXAAA">
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,558599596242565</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">18,8679622641132</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">20 : wizyta</XPD:ATTR>
 <XPD:REF name="Model">eY8uU6Sg+UqSjpZG+ISEigAA</XPD:REF>
 <XPD:REF name="HostEdge">xyjO70+ZnU2k02OkfTL5GAAA</XPD:REF>
@@ -15679,12 +15699,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">39</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3,37417191828226</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">75,538069872085</XPD:ATTR>
 <XPD:REF name="Model">8gHZ3EiYTky3BhGN19aJrAAA</XPD:REF>
 <XPD:REF name="HostEdge">g9WhWDys6kiIpemgJ2v9UQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="KEmcWpIKp0uUAwb4oCx4+AAA">
 <XPD:ATTR name="Width" type="integer">97</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,00406678574205</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">26,0768096208106</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">1 : znajd&#378;Pacjenta()</XPD:ATTR>
 <XPD:REF name="Model">8gHZ3EiYTky3BhGN19aJrAAA</XPD:REF>
 </XPD:OBJ>
@@ -15706,11 +15729,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">32</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">24</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,35401844153044</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14,2126704035519</XPD:ATTR>
 <XPD:REF name="Model">LOig1QEISUWsIYl0vVP/jgAA</XPD:REF>
 <XPD:REF name="HostEdge">PZP1N+MjFECk/BMQ8KhcOQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="3qkSlg7kpEiclrifWeVtngAA">
 <XPD:ATTR name="Width" type="integer">84</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,155594797958274</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">51,6236379965612</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">2 : pobierzPesel()</XPD:ATTR>
 <XPD:REF name="Model">LOig1QEISUWsIYl0vVP/jgAA</XPD:REF>
 </XPD:OBJ>
@@ -15732,12 +15759,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">32</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">24</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,47384327145493</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">16,6433169770932</XPD:ATTR>
 <XPD:REF name="Model">VCAE0ENd80WBfBwq9C1bbgAA</XPD:REF>
 <XPD:REF name="HostEdge">PZP1N+MjFECk/BMQ8KhcOQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="fDRhJB2Px02MnTyM83XBHQAA">
 <XPD:ATTR name="Width" type="integer">41</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,46107054245601</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">27,0185121722126</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">3 : Pesel</XPD:ATTR>
 <XPD:REF name="Model">VCAE0ENd80WBfBwq9C1bbgAA</XPD:REF>
 </XPD:OBJ>
@@ -15759,12 +15789,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">39</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,96465600326185</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">69,9213844256534</XPD:ATTR>
 <XPD:REF name="Model">C1vjqWUyIUKRVxeqdqv+qQAA</XPD:REF>
 <XPD:REF name="HostEdge">g9WhWDys6kiIpemgJ2v9UQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="kLEZc0AxPEyuDE0HarTt7AAA">
 <XPD:ATTR name="Width" type="integer">52</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,636508007964049</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">28,6006992921502</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">4 : Pacjent</XPD:ATTR>
 <XPD:REF name="Model">C1vjqWUyIUKRVxeqdqv+qQAA</XPD:REF>
 </XPD:OBJ>
@@ -15786,13 +15819,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">39</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">5</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,204484334154968</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">76,8439978137525</XPD:ATTR>
 <XPD:REF name="Model">pQeQJpF54ECK1jBAvAEigwAA</XPD:REF>
 <XPD:REF name="HostEdge">g9WhWDys6kiIpemgJ2v9UQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="Dn7MKabdS0+LVNSBdrNnBwAA">
 <XPD:ATTR name="Width" type="integer">96</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4,4517862462509</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">31,04834939252</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">5 : pobierzLekarzy()</XPD:ATTR>
 <XPD:REF name="Model">pQeQJpF54ECK1jBAvAEigwAA</XPD:REF>
 </XPD:OBJ>
@@ -15814,12 +15849,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">39</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,206992178144941</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">85,375640553966</XPD:ATTR>
 <XPD:REF name="Model">0yTJfEMP00qG+KQxt7jGuwAA</XPD:REF>
 <XPD:REF name="HostEdge">g9WhWDys6kiIpemgJ2v9UQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="hWowd3pNQUSnmM/hXiYT2wAA">
 <XPD:ATTR name="Width" type="integer">50</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,579074093201975</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">31,0644491340181</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">6 : lekarze</XPD:ATTR>
 <XPD:REF name="Model">0yTJfEMP00qG+KQxt7jGuwAA</XPD:REF>
 </XPD:OBJ>
@@ -15839,14 +15877,17 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedViews[21]" type="UMLColStimulusView" guid="V1fARfu9FU6PGXqyaYBb8AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">37</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">14</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">38</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,863333405090788</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">17</XPD:ATTR>
 <XPD:REF name="Model">ucQVobEnqEKCgBg+n2t8GwAA</XPD:REF>
 <XPD:REF name="HostEdge">NUjDEuyFDEuM3bOwBppvKgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="xlLQXy4/w0SeA4nMhaaSjQAA">
 <XPD:ATTR name="Width" type="integer">123</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,15013275838895</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">41,6293165929973</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">7 : znajdzWolneTerminy()</XPD:ATTR>
 <XPD:REF name="Model">ucQVobEnqEKCgBg+n2t8GwAA</XPD:REF>
 </XPD:OBJ>
@@ -15866,15 +15907,17 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedViews[22]" type="UMLColStimulusView" guid="foKx2Wf+u0yR+XuG1Iv/eQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">26</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">27</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">31</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,08139301616487</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">13,3416640641263</XPD:ATTR>
 <XPD:REF name="Model">7YxFUQEnd0yCXPz9RoqcqAAA</XPD:REF>
 <XPD:REF name="HostEdge">8r0yaA/4p06LvYY8RFUySgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="tszFV2umyUmmIuB0ad3j3gAA">
 <XPD:ATTR name="Width" type="integer">123</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,165148652844606</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">66,9103878332804</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">8 : znajd&#378;WolneTerminy()</XPD:ATTR>
 <XPD:REF name="Model">7YxFUQEnd0yCXPz9RoqcqAAA</XPD:REF>
 </XPD:OBJ>
@@ -15894,13 +15937,17 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedViews[23]" type="UMLColStimulusView" guid="fS9xLELLjUyLYpkMEILxmAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">34</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">35</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3,54259238599868</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">35,6089876295297</XPD:ATTR>
 <XPD:REF name="Model">NowiRwVkmUWqJgF8Ix3o6wAA</XPD:REF>
 <XPD:REF name="HostEdge">XPBTojxgG0qVhJ/gJWtExgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="kwsDR13bBkyv9LY2HVrfwwAA">
 <XPD:ATTR name="Width" type="integer">82</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,20963980256543</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">48,0520551069359</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">9 : pobierzDate()</XPD:ATTR>
 <XPD:REF name="Model">NowiRwVkmUWqJgF8Ix3o6wAA</XPD:REF>
 </XPD:OBJ>
@@ -15920,14 +15967,17 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedViews[24]" type="UMLColStimulusView" guid="Fwrb9uAlXEq6CArfDF7p8AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">34</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">35</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,327887337080636</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">45,7055795281058</XPD:ATTR>
 <XPD:REF name="Model">xGoG02S83Em+4VVMxPWJ2wAA</XPD:REF>
 <XPD:REF name="HostEdge">XPBTojxgG0qVhJ/gJWtExgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="OiQnCQlUxU+luAYG/pKH3gAA">
 <XPD:ATTR name="Width" type="integer">76</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,173671168481919</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">57,8705451849211</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">11 : czyWolny()</XPD:ATTR>
 <XPD:REF name="Model">xGoG02S83Em+4VVMxPWJ2wAA</XPD:REF>
 </XPD:OBJ>
@@ -15949,11 +15999,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">34</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,53288810963516</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">38,2099463490856</XPD:ATTR>
 <XPD:REF name="Model">D1ydmJbS/EeI4Q1qGDW+sgAA</XPD:REF>
 <XPD:REF name="HostEdge">XPBTojxgG0qVhJ/gJWtExgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="ojLBTNbE6kCkbFxGKtE/nQAA">
 <XPD:ATTR name="Width" type="integer">44</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,71739747109361</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">34,0147027033899</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">10 : data</XPD:ATTR>
 <XPD:REF name="Model">D1ydmJbS/EeI4Q1qGDW+sgAA</XPD:REF>
 </XPD:OBJ>
@@ -15973,14 +16027,17 @@ Warunek zako&#324;czenia:
 <XPD:OBJ name="OwnedViews[26]" type="UMLColStimulusView" guid="AaYyrhHbRkGMOeUcZTTdYwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">34</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">35</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0,538894746877339</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">41,6773319683494</XPD:ATTR>
 <XPD:REF name="Model">Q7WcCgf8UU2+C9UnuXYDZAAA</XPD:REF>
 <XPD:REF name="HostEdge">XPBTojxgG0qVhJ/gJWtExgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="Hpoq19EnxEyaMb5vklGdKgAA">
 <XPD:ATTR name="Width" type="integer">50</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,71739747109361</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">34,0147027033899</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">12 : wolny</XPD:ATTR>
 <XPD:REF name="Model">Q7WcCgf8UU2+C9UnuXYDZAAA</XPD:REF>
 </XPD:OBJ>
@@ -16002,11 +16059,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">27</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">31</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,50159914280938</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">19,7989898732233</XPD:ATTR>
 <XPD:REF name="Model">/FK5KhuO30iWQJnnUUAP+AAA</XPD:REF>
 <XPD:REF name="HostEdge">8r0yaA/4p06LvYY8RFUySgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="v9+xKjhXNU61ZfzH1FdnogAA">
 <XPD:ATTR name="Width" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,97866551922381</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">73,9797269527267</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">13 : listaWolnychTermin&#243;w</XPD:ATTR>
 <XPD:REF name="Model">/FK5KhuO30iWQJnnUUAP+AAA</XPD:REF>
 </XPD:OBJ>
@@ -16028,11 +16089,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">38</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,27419044411543</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">13,0384048104053</XPD:ATTR>
 <XPD:REF name="Model">7dyhivR0ZUOqJ2lAo689egAA</XPD:REF>
 <XPD:REF name="HostEdge">NUjDEuyFDEuM3bOwBppvKgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="+e2Cv4VseUmA5/J1tp3gaAAA">
 <XPD:ATTR name="Width" type="integer">122</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,77619066306039</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">24,5153013442625</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">14 : listaWolnychTermi&#243;w</XPD:ATTR>
 <XPD:REF name="Model">7dyhivR0ZUOqJ2lAo689egAA</XPD:REF>
 </XPD:OBJ>
@@ -16054,13 +16119,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">23</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">33</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,68181606036667</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">18,4390889145858</XPD:ATTR>
 <XPD:REF name="Model">UiEcbCmiHUGRPYYnEbf7kAAA</XPD:REF>
 <XPD:REF name="HostEdge">Dqw1064n0UWgnz13OXsaCwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="10fAgAoiYUykTewoauaX9QAA">
 <XPD:ATTR name="Width" type="integer">96</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-0,197395534208858</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">76,4852927038918</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,0940612169850821</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">53,2353266168247</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">15 : utw&#243;rzWizyt&#281;()</XPD:ATTR>
 <XPD:REF name="Model">UiEcbCmiHUGRPYYnEbf7kAAA</XPD:REF>
 </XPD:OBJ>
@@ -16082,12 +16149,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">25</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">31</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,716215244924022</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">17,2626765016321</XPD:ATTR>
 <XPD:REF name="Model">3AMUpWcn20ilG0ccjLclfwAA</XPD:REF>
 <XPD:REF name="HostEdge">4D7/FClbK0O75wbkyZ25EwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="vpDV0qJclUa2iK41ZObtYgAA">
 <XPD:ATTR name="Width" type="integer">63</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,452153750000465</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">38,9101529166874</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">16 : Create()</XPD:ATTR>
 <XPD:REF name="Model">3AMUpWcn20ilG0ccjLclfwAA</XPD:REF>
 </XPD:OBJ>
@@ -16109,13 +16179,15 @@ Warunek zako&#324;czenia:
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">23</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">33</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1,45977523375098</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">18,4390889145858</XPD:ATTR>
 <XPD:REF name="Model">8DYS2Yqb0E6j2B552Ll7CQAA</XPD:REF>
 <XPD:REF name="HostEdge">Dqw1064n0UWgnz13OXsaCwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="98XQ1Ljqi026voZfDzLEZgAA">
 <XPD:ATTR name="Width" type="integer">53</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">0,610725807789691</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">36,6196668472011</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-2,60578062485539</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">37,2155881318568</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">17 : wizyta</XPD:ATTR>
 <XPD:REF name="Model">8DYS2Yqb0E6j2B552Ll7CQAA</XPD:REF>
 </XPD:OBJ>
